@@ -451,3 +451,111 @@ LogInit: Object subsystem initialized
 [2018.11.13-04.49.17:933][606]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
 [2018.11.13-04.49.17:961][606]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2018.11.13-04.49.17:999][610]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2018.11.13-04.50.36:741][441]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.13-04.50.36:761][441]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.13-04.50.36:761][441]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-04.50.36:761][441]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 12, 2018, 2:50:36 PM)
+[2018.11.13-04.50.36:761][441]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.11.13-04.50.36:773][441]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012143s)
+[2018.11.13-04.50.36:774][441]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.11.13-04.50.36:774][441]LogPlayLevel: PIE: World Init took: (0.000708s)
+[2018.11.13-04.50.36:774][441]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012980s)
+[2018.11.13-04.50.36:831][441]LogInit: XAudio2 using 'DELL UZ2315H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.13-04.50.36:841][441]LogInit: FAudioDevice initialized.
+[2018.11.13-04.50.36:877][441]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.13-04.50.36:879][441]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.11.12-21.50.36
+[2018.11.13-04.50.36:879][441]LogWorld: Bringing up level for play took: 0.001461
+[2018.11.13-04.50.36:892][441]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.159
+[2018.11.13-04.50.36:892][441]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.13-04.50.39:334][732]LogBlueprintUserMessages: [Money_BP_C_0] Spawned shit
+[2018.11.13-04.50.47:950][766]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-04.50.48:860][875]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.13-04.50.48:861][875]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-04.50.48:898][875]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-04.50.48:898][875]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.13-04.50.48:927][875]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-04.50.48:965][879]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2018.11.13-04.51.05:703][292]MapCheck: New page: Map Check
+[2018.11.13-04.51.05:719][292]LightingResults: New page: Lighting Build - Nov 12, 2018, 2:51:05 PM
+[2018.11.13-04.51.05:765][292]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.11.13-04.51.05:868][292]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.11.13-04.51.05:880][292]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.11.13-04.51.06:389][292]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.11.13-04.51.06:389][292]LogSwarmInterface: [TryOpenConnection] Local Process ID is 4492
+[2018.11.13-04.51.08:926][292]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.11.13-04.51.08:926][292]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.11.13-04.51.08:926][292]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.11.13-04.51.08:926][292]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.11.13-04.51.08:926][292]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.11.13-04.51.09:085][292]LogEditorBuildUtils: Build time 0:03
+[2018.11.13-04.51.13:094][520]Job is a success!
+[2018.11.13-04.51.13:491][521]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.012s
+[2018.11.13-04.51.13:491][521]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.11.13-04.51.13:491][521]LogVolumetricLightmapImport:      BrickData 225x5x5 = 0.2Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2018.11.13-04.51.13:491][521]LogVolumetricLightmapImport:      Bricks at Level
+[2018.11.13-04.51.13:491][521]LogVolumetricLightmapImport:          0: 2.2% covering 100.0% of volume
+[2018.11.13-04.51.13:491][521]LogVolumetricLightmapImport:          1: 8.9% covering 6.3% of volume
+[2018.11.13-04.51.13:491][521]LogVolumetricLightmapImport:          2: 88.9% covering 1.0% of volume
+[2018.11.13-04.51.14:047][521]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2018.11.13-04.51.14:047][521]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.11.13-04.51.14:047][521]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.11.13-04.51.14:047][521]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 64X32)
+[2018.11.13-04.51.14:047][521]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2018.11.13-04.51.14:047][521]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2018.11.13-04.51.14:205][521]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2018.11.13-04.51.14:206][521]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X512)
+[2018.11.13-04.51.14:229][521]Lightmass on eae-d-080: 4.45 sec total, 137 ms importing, 18 ms setup, 830 ms photons, 3.44 sec processing, 0 ms extra exporting [6/6 mappings]. Threads: 23.9 sec total, 5.12 sec processing.
+[2018.11.13-04.51.14:269][521]LogStaticLightingSystem: Illumination: 8.20 sec (520 ms encoding lightmaps, 153 ms encoding shadowmaps)
+[2018.11.13-04.51.14:269][521]LogStaticLightingSystem: Lightmap texture memory:  2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2018.11.13-04.51.14:269][521]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.11.13-04.51.14:938][521]DumpUnbuiltLightIteractions
+[2018.11.13-04.51.14:938][521]Lights with unbuilt interactions: 0
+[2018.11.13-04.51.14:938][521]
+[2018.11.13-04.51.14:938][521]Primitives with unbuilt interactions: 0
+[2018.11.13-04.51.15:015][522]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.11.13-04.51.15:015][522]MapCheck: New page: ThirdPersonExampleMap - Nov 12, 2018, 2:51:15 PM
+[2018.11.13-04.51.15:126][522]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 110.297ms to complete.
+[2018.11.13-04.52.06:664][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Money_BP" FILE="../../../../../../Users/u1217889/Documents/aluringLure/Lure/Content/BluePrints/Money_BP.uasset" SILENT=true
+[2018.11.13-04.52.06:728][769]LogSavePackage: Moving '../../../../../../Users/u1217889/Documents/aluringLure/Lure/Saved/Money_BP86A23DC44B938927E485B6B7243BE70F.tmp' to '../../../../../../Users/u1217889/Documents/aluringLure/Lure/Content/BluePrints/Money_BP.uasset'
+[2018.11.13-04.52.06:982][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Money_BP" FILE="../../../../../../Users/u1217889/Documents/aluringLure/Lure/Content/BluePrints/Money_BP.uasset" SILENT=true
+[2018.11.13-04.52.07:032][780]LogSavePackage: Moving '../../../../../../Users/u1217889/Documents/aluringLure/Lure/Saved/Money_BP8546CB9145CFD5B0B2AA5681B30EC29E.tmp' to '../../../../../../Users/u1217889/Documents/aluringLure/Lure/Content/BluePrints/Money_BP.uasset'
+[2018.11.13-04.52.07:335][797]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Money_BP" FILE="../../../../../../Users/u1217889/Documents/aluringLure/Lure/Content/BluePrints/Money_BP.uasset" SILENT=true
+[2018.11.13-04.52.07:384][797]LogSavePackage: Moving '../../../../../../Users/u1217889/Documents/aluringLure/Lure/Saved/Money_BP85547EFD4810D16C2993B6A8F2B489AE.tmp' to '../../../../../../Users/u1217889/Documents/aluringLure/Lure/Content/BluePrints/Money_BP.uasset'
+[2018.11.13-04.52.07:526][798]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Money_BP" FILE="../../../../../../Users/u1217889/Documents/aluringLure/Lure/Content/BluePrints/Money_BP.uasset" SILENT=true
+[2018.11.13-04.52.07:576][798]LogSavePackage: Moving '../../../../../../Users/u1217889/Documents/aluringLure/Lure/Saved/Money_BP0012E4DC4C5482C63AC36CA7218FC351.tmp' to '../../../../../../Users/u1217889/Documents/aluringLure/Lure/Content/BluePrints/Money_BP.uasset'
+[2018.11.13-04.52.07:889][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Money_BP" FILE="../../../../../../Users/u1217889/Documents/aluringLure/Lure/Content/BluePrints/Money_BP.uasset" SILENT=true
+[2018.11.13-04.52.07:939][814]LogSavePackage: Moving '../../../../../../Users/u1217889/Documents/aluringLure/Lure/Saved/Money_BPDD88B3D943EA226F2B8F2DB039721ED3.tmp' to '../../../../../../Users/u1217889/Documents/aluringLure/Lure/Content/BluePrints/Money_BP.uasset'
+[2018.11.13-04.52.08:079][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Money_BP" FILE="../../../../../../Users/u1217889/Documents/aluringLure/Lure/Content/BluePrints/Money_BP.uasset" SILENT=true
+[2018.11.13-04.52.08:129][815]LogSavePackage: Moving '../../../../../../Users/u1217889/Documents/aluringLure/Lure/Saved/Money_BPFADEA04744E0D4D301C7B89482DFA3CF.tmp' to '../../../../../../Users/u1217889/Documents/aluringLure/Lure/Content/BluePrints/Money_BP.uasset'
+[2018.11.13-04.52.09:398][927]BlueprintLog: New page: Compile Money_BP
+[2018.11.13-04.52.13:984][375]LogSavePackage: Moving '../../../../../../Users/u1217889/Documents/aluringLure/Lure/Saved/ThirdPersonExampleMap89B9FAA54CFF8B91C1C79DB1C94FBFC9.tmp' to '../../../../../../Users/u1217889/Documents/aluringLure/Lure/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.11.13-04.52.14:134][375]LogSavePackage: Moving '../../../../../../Users/u1217889/Documents/aluringLure/Lure/Saved/ThirdPersonExampleMap_BuiltData3551CD63487722CBA5BA6CB38A992F4F.tmp' to '../../../../../../Users/u1217889/Documents/aluringLure/Lure/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.11.13-04.54.03:699][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Money_BP" FILE="../../../../../../Users/u1217889/Documents/aluringLure/Lure/Content/BluePrints/Money_BP.uasset" SILENT=true
+[2018.11.13-04.54.03:758][888]LogSavePackage: Moving '../../../../../../Users/u1217889/Documents/aluringLure/Lure/Saved/Money_BP4C81C8114733573E6BF16EB8546DD271.tmp' to '../../../../../../Users/u1217889/Documents/aluringLure/Lure/Content/BluePrints/Money_BP.uasset'
+[2018.11.13-04.54.03:994][899]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Money_BP" FILE="../../../../../../Users/u1217889/Documents/aluringLure/Lure/Content/BluePrints/Money_BP.uasset" SILENT=true
+[2018.11.13-04.54.04:042][899]LogSavePackage: Moving '../../../../../../Users/u1217889/Documents/aluringLure/Lure/Saved/Money_BP8EC56777447F145414AFEE82C1D87B11.tmp' to '../../../../../../Users/u1217889/Documents/aluringLure/Lure/Content/BluePrints/Money_BP.uasset'
+[2018.11.13-04.54.05:187][  5]BlueprintLog: New page: Compile Money_BP
+[2018.11.13-04.54.09:662][472]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.13-04.54.09:681][472]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.13-04.54.09:681][472]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.13-04.54.09:681][472]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 12, 2018, 2:54:09 PM)
+[2018.11.13-04.54.09:682][472]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.11.13-04.54.09:698][472]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015969s)
+[2018.11.13-04.54.09:698][472]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.11.13-04.54.09:698][472]LogPlayLevel: PIE: World Init took: (0.000743s)
+[2018.11.13-04.54.09:698][472]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016891s)
+[2018.11.13-04.54.09:765][472]LogInit: XAudio2 using 'DELL UZ2315H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.13-04.54.09:778][472]LogInit: FAudioDevice initialized.
+[2018.11.13-04.54.09:809][472]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.11.13-04.54.09:810][472]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.11.12-21.54.09
+[2018.11.13-04.54.09:811][472]LogWorld: Bringing up level for play took: 0.001386
+[2018.11.13-04.54.09:822][472]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.09
+[2018.11.13-04.54.09:823][472]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.13-04.54.11:184][633]LogBlueprintUserMessages: [Money_BP_C_0] Spawned shit
+[2018.11.13-04.54.15:141][108]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-04.54.16:134][227]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.13-04.54.16:134][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-04.54.16:172][227]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.13-04.54.16:172][227]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.13-04.54.16:198][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-04.54.16:239][231]LogPlayLevel: Display: Destroying online subsystem :Context_11
