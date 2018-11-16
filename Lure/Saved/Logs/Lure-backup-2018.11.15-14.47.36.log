@@ -1,0 +1,1435 @@
+﻿Log file open, 11/15/18 14:05:44
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Lure
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.268692
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.084s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4212847
+LogInit: Engine Version: 4.20.3-4212847+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Jul 14 2018 09:51:14
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: -EpicPortal  -epicusername="BosonHUANG" -epicuserid=811bd0c0426340ad86f35240c1fb3480 -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.15-21.05.44:977][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.15-21.05.44:977][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.15-21.05.44:988][  0]LogHAL: Display: Platform has ~ 16 GB [17122476032 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.11.15-21.05.44:988][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.11.15-21.05.44:988][  0]LogInit: Going up to parent DeviceProfile []
+[2018.11.15-21.05.44:989][  0]LogInit: Computer: eae-d-185
+[2018.11.15-21.05.44:989][  0]LogInit: User: u1218984
+[2018.11.15-21.05.44:989][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.11.15-21.05.44:989][  0]LogInit: High frequency timer resolution =4.101567 MHz
+[2018.11.15-21.05.44:989][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.11.15-21.05.44:989][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.15-21.05.44:989][  0]LogMemory: Process Physical Memory: 100.84 MB used, 100.84 MB peak
+[2018.11.15-21.05.44:989][  0]LogMemory: Process Virtual Memory: 93.48 MB used, 93.48 MB peak
+[2018.11.15-21.05.44:989][  0]LogMemory: Physical Memory: 8420.17 MB used,  7909.09 MB free, 16329.27 MB total
+[2018.11.15-21.05.44:989][  0]LogMemory: Virtual Memory: 4642.84 MB used,  7909.09 MB free, 134217728.00 MB total
+[2018.11.15-21.05.45:003][  0]LogInit: Using OS detected language (en-US).
+[2018.11.15-21.05.45:003][  0]LogInit: Using OS detected locale (en-US).
+[2018.11.15-21.05.45:004][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.11.15-21.05.45:284][  0]LogStreaming: Display: Took  0.282s to InitEngineTextLocalization.
+[2018.11.15-21.05.45:284][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.15-21.05.45:327][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.15-21.05.45:327][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.15-21.05.45:470][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.15-21.05.45:470][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.15-21.05.45:526][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.11.15-21.05.45:526][  0]LogD3D11RHI:       8088/0/8164 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.11.15-21.05.45:528][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.15-21.05.45:528][  0]LogD3D11RHI:       0/0/8164 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.15-21.05.45:528][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.15-21.05.45:536][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.15-21.05.45:536][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.15-21.05.45:536][  0]LogWindows: EnumDisplayDevices:
+[2018.11.15-21.05.45:536][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2018.11.15-21.05.45:536][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2018.11.15-21.05.45:536][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.11.15-21.05.45:536][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.11.15-21.05.45:536][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.11.15-21.05.45:536][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.11.15-21.05.45:536][  0]LogD3D11RHI:   Driver Version: 398.36 (internal:24.21.13.9836, unified:398.36)
+[2018.11.15-21.05.45:536][  0]LogD3D11RHI:      Driver Date: 6-24-2018
+[2018.11.15-21.05.45:536][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2018.11.15-21.05.45:567][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.15-21.05.45:584][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.11.15-21.05.45:669][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (../../../../../../Users/u1218984/Documents/GitHub/aluringLure/Lure/Intermediate/Shaders/WorkingDirectory/17220/).
+[2018.11.15-21.05.45:669][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/u1218984/AppData/Local/Temp/UnrealShaderWorkingDir/5F9324424B90C8767CF7988AC847C7A6/'.
+[2018.11.15-21.05.45:893][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.15-21.05.45:903][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.15-21.05.45:915][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.15-21.05.45:925][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.15-21.05.45:936][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.15-21.05.45:948][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.15-21.05.45:960][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.15-21.05.45:978][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.15-21.05.45:985][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.15-21.05.46:048][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-21.05.46:049][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-21.05.46:049][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-21.05.46:049][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-21.05.46:049][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-21.05.46:049][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-21.05.46:049][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-21.05.46:049][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-21.05.46:049][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-21.05.46:049][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-21.05.46:049][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-21.05.46:049][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-21.05.46:049][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-21.05.46:049][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-21.05.46:049][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-21.05.46:049][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-21.05.46:049][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-21.05.46:049][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.15-21.05.46:050][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.15-21.05.46:104][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.15-21.05.46:104][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.15-21.05.46:123][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.15-21.05.46:123][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.15-21.05.46:132][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.15-21.05.46:142][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.15-21.05.46:153][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.15-21.05.46:164][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.15-21.05.46:172][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.15-21.05.46:172][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.15-21.05.46:222][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.15-21.05.46:222][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.15-21.05.46:222][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.15-21.05.46:775][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.15-21.05.46:825][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/u1218984/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.15-21.05.46:825][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/u1218984/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.11.15-21.05.46:826][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/u1218984/Documents/GitHub/aluringLure/Lure/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.15-21.05.46:826][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.15-21.05.46:826][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/u1218984/Documents/GitHub/aluringLure/Lure/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.15-21.05.46:826][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.15-21.05.46:836][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.15-21.05.46:848][  0]LogDerivedDataCache: Using Local data cache path C:/Users/u1218984/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.15-21.05.46:848][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.15-21.05.46:848][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.15-21.05.46:862][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.15-21.05.46:863][  0]LogSlate: Using FreeType 2.6.0
+[2018.11.15-21.05.46:863][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.15-21.05.46:924][  0]LogAssetRegistry: FAssetRegistry took 0.0252 seconds to start up
+[2018.11.15-21.05.47:171][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.15-21.05.47:211][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.15-21.05.47:214][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.15-21.05.47:214][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.11.15-21.05.47:214][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.15-21.05.47:214][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.15-21.05.47:287][  0]LogNetVersion: Lure 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2248156831)
+[2018.11.15-21.05.47:734][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.099400 seconds
+[2018.11.15-21.05.47:739][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.11.15-21.05.47:739][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.11.15-21.05.47:739][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.15-21.05.48:409][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.15-21.05.48:421][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.15-21.05.48:544][  0]SourceControl: Source control is disabled
+[2018.11.15-21.05.48:544][  0]SourceControl: Source control is disabled
+[2018.11.15-21.05.48:545][  0]SourceControl: Source control is disabled
+[2018.11.15-21.05.48:545][  0]SourceControl: Source control is disabled
+[2018.11.15-21.05.48:694][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.15-21.05.48:742][  0]LogOcInput: OculusInput pre-init called
+[2018.11.15-21.05.48:791][  0]LogEngine: Initializing Engine...
+[2018.11.15-21.05.48:792][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.15-21.05.48:793][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.15-21.05.48:793][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.15-21.05.48:793][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.15-21.05.48:793][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.15-21.05.48:954][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.11.15-21.05.48:965][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.15-21.05.49:008][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.15-21.05.49:037][  0]LogInit: FAudioDevice initialized.
+[2018.11.15-21.05.49:038][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.11.15-21.05.49:091][  0]LogDerivedDataCache: Saved boot cache 0.05s 71MB C:/Users/u1218984/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.15-21.05.49:100][  0]LogInit: Texture streaming: Enabled
+[2018.11.15-21.05.49:113][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.15-21.05.49:127][  0]LogInit: Transaction tracking system initialized
+[2018.11.15-21.05.49:146][  0]BlueprintLog: New page: Editor Load
+[2018.11.15-21.05.49:210][  0]LocalizationService: Localization service is disabled
+[2018.11.15-21.05.49:426][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.15-21.05.49:426][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.15-21.05.49:426][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.15-21.05.49:426][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.15-21.05.49:426][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.15-21.05.49:426][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.15-21.05.49:426][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.15-21.05.49:526][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1218984/Documents/GitHub/aluringLure/Lure/Content/' took 0.02s
+[2018.11.15-21.05.49:526][  0]SourceControl: Source control is disabled
+[2018.11.15-21.05.49:526][  0]Cmd: MAP LOAD FILE="../../../../../../Users/u1218984/Documents/GitHub/aluringLure/Lure/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.15-21.05.49:526][  0]LightingResults: New page: Lighting Build
+[2018.11.15-21.05.49:529][  0]MapCheck: New page: Map Check
+[2018.11.15-21.05.49:529][  0]LightingResults: New page: Lighting Build
+[2018.11.15-21.05.50:022][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.11.15-21.05.50:035][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.15-21.05.50:054][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.15-21.05.50:117][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 63.347ms to complete.
+[2018.11.15-21.05.50:117][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.591
+[2018.11.15-21.05.50:227][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-21.05.50:233][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-21.05.50:238][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-21.05.50:244][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-21.05.50:250][  0]LogCollectionManager: Loaded 0 collections in 0.001979 seconds
+[2018.11.15-21.05.50:290][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1218984/Documents/GitHub/aluringLure/Lure/Saved/Collections/' took 0.01s
+[2018.11.15-21.05.50:290][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1218984/Documents/GitHub/aluringLure/Lure/Content/Developers/u1218984/Collections/' took 0.01s
+[2018.11.15-21.05.50:290][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1218984/Documents/GitHub/aluringLure/Lure/Content/Collections/' took 0.01s
+[2018.11.15-21.05.50:290][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.11.15-21.05.50:298][  0]LogContentBrowser: Native class hierarchy populated in 0.0071 seconds. Added 2573 classes and 605 folders.
+[2018.11.15-21.05.50:303][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.15-21.05.50:340][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.15-21.05.50:350][  0]LogSlate: Took 0.000280 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.15-21.05.50:354][  0]LogSlate: Took 0.000197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.15-21.05.50:356][  0]LogSlate: Took 0.000252 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.15-21.05.50:415][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.11.15-21.05.50:539][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.15-21.05.50:539][  0]LogLoad: (Engine Initialization) Total time: 7.10 seconds
+[2018.11.15-21.05.50:539][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.15-21.05.50:549][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.15-21.05.50:578][  0]LogAssetRegistry: Asset discovery search completed in 3.6763 seconds
+[2018.11.15-21.05.50:580][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.11.15-21.05.50:580][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000044 seconds (updated 0 objects)
+[2018.11.15-21.05.50:581][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.15-21.05.50:635][  0]LogSlate: Took 0.000145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.15-21.05.50:640][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/u1218984/Documents/GitHub/aluringLure/Lure/Content/' took 0.08s
+[2018.11.15-21.05.58:327][917]LogEditorViewport: Clicking on Actor (LMB): AI_Patrol_C (AI_Patrol)
+[2018.11.15-21.06.00:809][205]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.15-21.06.02:355][375]Cmd: TRANSACTION UNDO
+[2018.11.15-21.06.02:356][375]LogEditorTransaction: Undo Move Actors
+[2018.11.15-21.06.02:401][375]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.15-21.06.03:607][513]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.15-21.06.04:107][570]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-21.06.04:723][643]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-21.06.04:726][643]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrints/PatrolAmongAI/AI_Patrol.AI_Patrol
+[2018.11.15-21.06.05:080][643]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.11.15-21.06.05:696][643]LogSlate: Took 0.000235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.15-21.06.36:351][117]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.15-21.06.38:714][322]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-21.06.39:292][383]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-21.06.39:294][383]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/White_Box_Models/Plate/PosionFood.PosionFood
+[2018.11.15-21.07.01:494][540]LogRenderer: Reallocating scene render targets to support 1208x596 Format 10 NumSamples 1 (Frame:984).
+[2018.11.15-21.07.06:995][142]LogRenderer: Reallocating scene render targets to support 1208x744 Format 10 NumSamples 1 (Frame:1052).
+[2018.11.15-21.07.08:476][288]LogRenderer: Reallocating scene render targets to support 1224x744 Format 10 NumSamples 1 (Frame:1195).
+[2018.11.15-21.07.08:518][288]LogRenderer: Reallocating scene render targets to support 1288x744 Format 10 NumSamples 1 (Frame:1197).
+[2018.11.15-21.07.08:578][290]LogRenderer: Reallocating scene render targets to support 1292x744 Format 10 NumSamples 1 (Frame:1199).
+[2018.11.15-21.07.57:160][451]LogEditorTransaction: Undo Add Node
+[2018.11.15-21.08.07:157][472]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/GitHub/aluringLure/Lure/Saved/AI_Patrol149CFB3E4E72A9E453C326B3F9F9D9F8.tmp' to '../../../../../../Users/u1218984/Documents/GitHub/aluringLure/Lure/Content/BluePrints/PatrolAmongAI/AI_Patrol.uasset'
+[2018.11.15-21.08.09:538][731]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-21.08.09:599][738]BlueprintLog: New page: Compile AI_Patrol
+[2018.11.15-21.08.11:374][898]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-21.08.11:441][906]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.15-21.08.11:474][906]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.15-21.08.11:474][906]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.15-21.08.11:486][906]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 15, 2018, 7:08:11 AM)
+[2018.11.15-21.08.11:486][906]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.11.15-21.08.11:497][906]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011145s)
+[2018.11.15-21.08.11:498][906]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.11.15-21.08.11:498][906]LogPlayLevel: PIE: World Init took: (0.000864s)
+[2018.11.15-21.08.11:498][906]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012157s)
+[2018.11.15-21.08.11:556][906]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.15-21.08.11:567][906]LogInit: FAudioDevice initialized.
+[2018.11.15-21.08.11:634][906]LogLoad: Game class is 'my_GameMode_C'
+[2018.11.15-21.08.11:638][906]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.11.15-14.08.11
+[2018.11.15-21.08.11:638][906]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2018.11.15-21.08.11:639][906]LogWorld: Bringing up level for play took: 0.004348
+[2018.11.15-21.08.11:659][906]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 10 classes and 0 folders.
+[2018.11.15-21.08.11:659][906]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.11.15-21.08.11:659][906]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.11.15-21.08.11:659][906]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.978
+[2018.11.15-21.08.11:660][906]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.15-21.08.19:302][818]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-874.390 Y=499.526 Z=213.510] for [PosionFood_C]
+[2018.11.15-21.08.23:793][357]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.15-21.08.23:793][357]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-21.08.23:830][357]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.15-21.08.23:830][357]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.15-21.08.23:855][357]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-21.08.23:894][360]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2018.11.15-21.08.24:520][423]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-21.08.43:972][598]BlueprintLog: New page: Compile AI_Patrol
+[2018.11.15-21.08.47:626][799]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.15-21.08.47:663][799]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.15-21.08.47:663][799]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.15-21.08.47:663][799]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 15, 2018, 7:08:47 AM)
+[2018.11.15-21.08.47:663][799]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.11.15-21.08.47:675][799]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012315s)
+[2018.11.15-21.08.47:676][799]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.11.15-21.08.47:676][799]LogPlayLevel: PIE: World Init took: (0.000593s)
+[2018.11.15-21.08.47:676][799]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013056s)
+[2018.11.15-21.08.47:731][799]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.15-21.08.47:742][799]LogInit: FAudioDevice initialized.
+[2018.11.15-21.08.47:773][799]LogLoad: Game class is 'my_GameMode_C'
+[2018.11.15-21.08.47:777][799]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.11.15-14.08.47
+[2018.11.15-21.08.47:777][799]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2018.11.15-21.08.47:778][799]LogWorld: Bringing up level for play took: 0.003841
+[2018.11.15-21.08.47:790][799]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.11.15-21.08.47:790][799]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.11.15-21.08.47:791][799]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.11
+[2018.11.15-21.08.47:791][799]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.15-21.08.49:079][934]LogBlueprintUserMessages: [AI_Patrol_2] ThirdPersonCharacter_167
+[2018.11.15-21.08.49:582][992]LogBlueprintUserMessages: [AI_Patrol_2] ThirdPersonCharacter_167
+[2018.11.15-21.08.50:037][ 46]LogBlueprintUserMessages: [AI_Patrol5] ThirdPersonCharacter_167
+[2018.11.15-21.08.50:088][ 52]LogBlueprintUserMessages: [AI_Patrol_2] ThirdPersonCharacter_167
+[2018.11.15-21.08.50:538][105]LogBlueprintUserMessages: [AI_Patrol5] ThirdPersonCharacter_167
+[2018.11.15-21.08.50:589][111]LogBlueprintUserMessages: [AI_Patrol_2] ThirdPersonCharacter_167
+[2018.11.15-21.08.51:040][164]LogBlueprintUserMessages: [AI_Patrol5] ThirdPersonCharacter_167
+[2018.11.15-21.08.51:090][170]LogBlueprintUserMessages: [AI_Patrol_2] ThirdPersonCharacter_167
+[2018.11.15-21.08.51:595][230]LogBlueprintUserMessages: [AI_Patrol_2] ThirdPersonCharacter_167
+[2018.11.15-21.08.52:101][289]LogBlueprintUserMessages: [AI_Patrol_2] ThirdPersonCharacter_167
+[2018.11.15-21.08.52:968][392]LogBlueprintUserMessages: [AI_Patrol3] ThirdPersonCharacter_167
+[2018.11.15-21.08.53:982][501]LogBlueprintUserMessages: [AI_Patrol3] ThirdPersonCharacter_167
+[2018.11.15-21.08.54:069][507]LogBlueprintUserMessages: [AI_Patrol6] ThirdPersonCharacter_167
+[2018.11.15-21.08.54:839][565]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.15-21.08.54:839][565]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-21.08.54:884][565]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.15-21.08.54:884][565]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.15-21.08.54:909][565]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-21.08.55:004][566]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2018.11.15-21.08.55:750][642]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-21.09.29:105][130]LogEditorTransaction: Undo Edit Only Sense Players
+[2018.11.15-21.09.29:120][130]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AI_Patrol6.Arrow) Component already registered.
+[2018.11.15-21.09.29:120][130]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_3:PersistentLevel.AI_Patrol_C_0.CharMoveComp) Component already registered.
+[2018.11.15-21.09.29:120][130]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_3:PersistentLevel.AI_Patrol_C_0.Arrow) Component already registered.
+[2018.11.15-21.09.29:120][130]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AI_Patrol_2.CharacterMesh0) Component already registered.
+[2018.11.15-21.09.29:121][130]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AI_Patrol_2.CharMoveComp) Component already registered.
+[2018.11.15-21.09.29:121][130]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AI_Patrol_2.Arrow) Component already registered.
+[2018.11.15-21.09.29:121][130]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AI_Patrol6.CharacterMesh0) Component already registered.
+[2018.11.15-21.09.29:122][130]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AI_Patrol6.CharMoveComp) Component already registered.
+[2018.11.15-21.09.29:122][130]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AI_Patrol5.CharacterMesh0) Component already registered.
+[2018.11.15-21.09.29:122][130]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AI_Patrol3.Arrow) Component already registered.
+[2018.11.15-21.09.29:122][130]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AI_Patrol5.CharMoveComp) Component already registered.
+[2018.11.15-21.09.29:122][130]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AI_Patrol5.Arrow) Component already registered.
+[2018.11.15-21.09.29:123][130]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AI_Patrol4.CharacterMesh0) Component already registered.
+[2018.11.15-21.09.29:123][130]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AI_Patrol4.CharMoveComp) Component already registered.
+[2018.11.15-21.09.29:124][130]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AI_Patrol4.Arrow) Component already registered.
+[2018.11.15-21.09.29:124][130]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AI_Patrol3.CharacterMesh0) Component already registered.
+[2018.11.15-21.09.29:124][130]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AI_Patrol3.CharMoveComp) Component already registered.
+[2018.11.15-21.09.29:318][142]LogEditorTransaction: Undo Create Pin Link
+[2018.11.15-21.09.29:659][177]LogEditorTransaction: Undo Move Node
+[2018.11.15-21.09.30:099][216]LogEditorTransaction: Undo Delete current selection
+[2018.11.15-21.09.48:532][292]BlueprintLog: New page: Compile AI_Patrol
+[2018.11.15-21.09.50:281][460]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-21.09.50:347][468]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.15-21.09.50:382][468]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.15-21.09.50:382][468]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.15-21.09.50:382][468]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 15, 2018, 7:09:50 AM)
+[2018.11.15-21.09.50:382][468]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.11.15-21.09.50:393][468]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011131s)
+[2018.11.15-21.09.50:394][468]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.11.15-21.09.50:394][468]LogPlayLevel: PIE: World Init took: (0.000787s)
+[2018.11.15-21.09.50:394][468]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012048s)
+[2018.11.15-21.09.50:455][468]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.15-21.09.50:466][468]LogInit: FAudioDevice initialized.
+[2018.11.15-21.09.50:498][468]LogLoad: Game class is 'my_GameMode_C'
+[2018.11.15-21.09.50:502][468]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.11.15-14.09.50
+[2018.11.15-21.09.50:502][468]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2018.11.15-21.09.50:503][468]LogWorld: Bringing up level for play took: 0.004127
+[2018.11.15-21.09.50:514][468]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.11.15-21.09.50:514][468]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.11.15-21.09.50:515][468]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.166
+[2018.11.15-21.09.50:515][468]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.15-21.09.50:554][470]LogBlueprintUserMessages: [AI_Patrol3] PosionFood_2
+[2018.11.15-21.09.50:555][470]LogBlueprintUserMessages: [AI_Patrol3] AI_Patrol2
+[2018.11.15-21.09.50:555][470]LogBlueprintUserMessages: [AI_Patrol3] AI_Patrol_2
+[2018.11.15-21.09.50:762][495]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_0
+[2018.11.15-21.09.51:055][530]LogBlueprintUserMessages: [AI_Patrol3] PosionFood_2
+[2018.11.15-21.09.51:055][530]LogBlueprintUserMessages: [AI_Patrol3] AI_Patrol_2
+[2018.11.15-21.09.51:263][555]LogBlueprintUserMessages: [AI_Patrol_2] AI_Patrol6
+[2018.11.15-21.09.51:263][555]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_0
+[2018.11.15-21.09.51:555][590]LogBlueprintUserMessages: [AI_Patrol3] PosionFood_2
+[2018.11.15-21.09.51:671][604]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol5
+[2018.11.15-21.09.51:738][612]LogBlueprintUserMessages: [AI_Patrol6] AI_Patrol5
+[2018.11.15-21.09.51:763][615]LogBlueprintUserMessages: [AI_Patrol_2] AI_Patrol6
+[2018.11.15-21.09.51:922][634]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.15-21.09.51:922][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-21.09.51:956][634]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.15-21.09.51:956][634]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.15-21.09.51:982][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-21.09.52:020][637]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.11.15-21.09.52:364][669]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-21.10.11:730][852]LogEditorTransaction: Undo Move Node
+[2018.11.15-21.10.12:085][878]LogEditorTransaction: Undo Delete current selection
+[2018.11.15-21.11.03:581][719]BlueprintLog: New page: Compile AI_Patrol
+[2018.11.15-21.11.16:599][188]BlueprintLog: New page: Compile AI_Patrol
+[2018.11.15-21.11.27:462][419]BlueprintLog: New page: Compile AI_Patrol
+[2018.11.15-21.12.19:937][473]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2018.11.15-21.12.19:937][473]LogLinker: Warning: Can't find file 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial'
+[2018.11.15-21.12.19:937][473]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2018.11.15-21.12.19:937][473]LogLinker: Warning: Can't find file 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial'
+[2018.11.15-21.12.19:937][473]LogUObjectGlobals: Warning: Failed to find object 'Blueprint Engine/Tutorial/Installation/InstallingVisualStudioTutorial.InstallingVisualStudioTutorial'
+[2018.11.15-21.12.39:799][803]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: 'Engine/Tutorial/Installation/InstallingVisualStudioTutorial' is not a standard unreal filename or a long path name. Reason: Path should start with a '/'
+[2018.11.15-21.13.10:167][419]BlueprintLog: New page: Compile AI_Patrol
+[2018.11.15-21.13.55:615][634]BlueprintLog: New page: Compile AI_Patrol
+[2018.11.15-21.13.57:262][790]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-21.13.57:329][798]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.15-21.13.57:366][798]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.15-21.13.57:366][798]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.15-21.13.57:366][798]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 15, 2018, 7:13:57 AM)
+[2018.11.15-21.13.57:366][798]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.11.15-21.13.57:378][798]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011852s)
+[2018.11.15-21.13.57:378][798]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.11.15-21.13.57:379][798]LogPlayLevel: PIE: World Init took: (0.000759s)
+[2018.11.15-21.13.57:379][798]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012761s)
+[2018.11.15-21.13.57:434][798]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.15-21.13.57:445][798]LogInit: FAudioDevice initialized.
+[2018.11.15-21.13.57:474][798]LogLoad: Game class is 'my_GameMode_C'
+[2018.11.15-21.13.57:477][798]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.11.15-14.13.57
+[2018.11.15-21.13.57:477][798]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2018.11.15-21.13.57:478][798]LogWorld: Bringing up level for play took: 0.003945
+[2018.11.15-21.13.57:490][798]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.11.15-21.13.57:490][798]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.11.15-21.13.57:491][798]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.81
+[2018.11.15-21.13.57:491][798]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.15-21.13.57:523][799]LogBlueprintUserMessages: [AI_Patrol5] AI_Patrol4
+[2018.11.15-21.13.57:739][825]LogBlueprintUserMessages: [AI_Patrol6] ThirdPersonCharacter_167
+[2018.11.15-21.13.57:739][825]LogBlueprintUserMessages: [AI_Patrol6] PosionFood_C_0
+[2018.11.15-21.13.57:789][831]LogBlueprintUserMessages: [AI_Patrol3] AI_Patrol2
+[2018.11.15-21.13.57:806][833]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_0
+[2018.11.15-21.13.58:023][859]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol5
+[2018.11.15-21.13.58:023][859]LogBlueprintUserMessages: [AI_Patrol5] AI_Patrol4
+[2018.11.15-21.13.58:239][885]LogBlueprintUserMessages: [AI_Patrol6] AI_Patrol_2
+[2018.11.15-21.13.58:239][885]LogBlueprintUserMessages: [AI_Patrol6] ThirdPersonCharacter_167
+[2018.11.15-21.13.58:239][885]LogBlueprintUserMessages: [AI_Patrol6] PosionFood_C_0
+[2018.11.15-21.13.58:289][891]LogBlueprintUserMessages: [AI_Patrol3] PosionFood_2
+[2018.11.15-21.13.58:289][891]LogBlueprintUserMessages: [AI_Patrol3] AI_Patrol2
+[2018.11.15-21.13.58:306][893]LogBlueprintUserMessages: [AI_Patrol_2] AI_Patrol6
+[2018.11.15-21.13.58:306][893]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_0
+[2018.11.15-21.13.58:474][913]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.15-21.13.58:474][913]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-21.13.58:511][913]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.15-21.13.58:512][913]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.15-21.13.58:537][913]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-21.13.58:578][916]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.11.15-21.13.58:936][950]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-21.14.24:369][690]BlueprintLog: New page: Compile PosionFood
+[2018.11.15-21.14.27:372][967]LogEditorViewport: Clicking on Actor (LMB): AI_Patrol_C (AI_Patrol)
+[2018.11.15-21.14.28:833][ 95]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-21.14.38:053][909]LogEditorTransaction: Undo Delete Child
+[2018.11.15-21.14.38:068][909]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AI_Patrol6.CollisionCylinder) Component already registered.
+[2018.11.15-21.14.38:068][909]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_3:PersistentLevel.AI_Patrol_C_0.CharacterMesh0) Component already registered.
+[2018.11.15-21.14.38:071][909]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AI_Patrol_2.CharMoveComp) Component already registered.
+[2018.11.15-21.14.38:071][909]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AI_Patrol6.CharMoveComp) Component already registered.
+[2018.11.15-21.14.38:071][909]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AI_Patrol6.CharacterMesh0) Component already registered.
+[2018.11.15-21.14.38:072][909]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AI_Patrol_2.Arrow) Component already registered.
+[2018.11.15-21.14.38:072][909]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AI_Patrol_2.CharacterMesh0) Component already registered.
+[2018.11.15-21.14.38:073][909]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AI_Patrol6.Arrow) Component already registered.
+[2018.11.15-21.14.38:073][909]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_3:PersistentLevel.AI_Patrol_C_0.Arrow) Component already registered.
+[2018.11.15-21.14.38:074][909]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_3:PersistentLevel.AI_Patrol_C_0.CharMoveComp) Component already registered.
+[2018.11.15-21.14.38:074][909]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AI_Patrol5.CharacterMesh0) Component already registered.
+[2018.11.15-21.14.38:074][909]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AI_Patrol4.Arrow) Component already registered.
+[2018.11.15-21.14.38:074][909]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AI_Patrol3.Arrow) Component already registered.
+[2018.11.15-21.14.38:074][909]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AI_Patrol3.CharMoveComp) Component already registered.
+[2018.11.15-21.14.38:075][909]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AI_Patrol3.CharacterMesh0) Component already registered.
+[2018.11.15-21.14.38:075][909]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AI_Patrol4.CharMoveComp) Component already registered.
+[2018.11.15-21.14.38:075][909]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AI_Patrol2.CharacterMesh0) Component already registered.
+[2018.11.15-21.14.38:076][909]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AI_Patrol4.CharacterMesh0) Component already registered.
+[2018.11.15-21.14.38:076][909]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AI_Patrol5.Arrow) Component already registered.
+[2018.11.15-21.14.38:076][909]LogActorComponent: ~FComponentReregisterContext: (/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.AI_Patrol5.CharMoveComp) Component already registered.
+[2018.11.15-21.14.49:556][927]BlueprintLog: New page: Compile AI_Patrol
+[2018.11.15-21.14.50:628][980]LogSlate: Window 'PosionFood*' being destroyed
+[2018.11.15-21.14.50:632][980]LogSlate: Window 'PosionFood*' being destroyed
+[2018.11.15-21.14.50:711][980]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.11.15-21.14.51:231][ 33]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2018.11.15-21.14.53:205][248]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-21.14.56:988][690]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2018.11.15-21.15.02:893][164]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.11.15-21.15.04:159][234]LogSlate: Window 'ThirdPersonCharacter*' being destroyed
+[2018.11.15-21.15.04:165][234]LogSlate: Window 'ThirdPersonCharacter*' being destroyed
+[2018.11.15-21.15.04:992][320]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.15-21.15.05:017][320]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.15-21.15.05:017][320]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.15-21.15.05:017][320]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 15, 2018, 7:15:05 AM)
+[2018.11.15-21.15.05:017][320]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.11.15-21.15.05:027][320]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009984s)
+[2018.11.15-21.15.05:028][320]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.11.15-21.15.05:028][320]LogPlayLevel: PIE: World Init took: (0.000693s)
+[2018.11.15-21.15.05:028][320]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010791s)
+[2018.11.15-21.15.05:105][320]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.15-21.15.05:116][320]LogInit: FAudioDevice initialized.
+[2018.11.15-21.15.05:146][320]LogLoad: Game class is 'my_GameMode_C'
+[2018.11.15-21.15.05:150][320]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.11.15-14.15.05
+[2018.11.15-21.15.05:151][320]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2018.11.15-21.15.05:152][320]LogWorld: Bringing up level for play took: 0.004430
+[2018.11.15-21.15.05:163][320]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.11.15-21.15.05:163][320]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.11.15-21.15.05:164][320]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.483
+[2018.11.15-21.15.05:164][320]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.15-21.15.05:905][406]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_0
+[2018.11.15-21.15.05:931][409]LogBlueprintUserMessages: [ThirdPersonCharacter_167] X=-657.787 Y=152.431 Z=135.121
+[2018.11.15-21.15.06:405][466]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_0
+[2018.11.15-21.15.07:488][596]LogBlueprintUserMessages: [AI_Patrol5] PosionFood_C_0
+[2018.11.15-21.15.08:765][749]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-845.672 Y=334.635 Z=213.456] for [PosionFood_C]
+[2018.11.15-21.15.08:905][766]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_1
+[2018.11.15-21.15.09:040][782]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-845.672 Y=334.635 Z=213.456] for [PosionFood_C]
+[2018.11.15-21.15.09:348][819]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-845.672 Y=334.635 Z=213.456] for [PosionFood_C]
+[2018.11.15-21.15.09:405][826]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_1
+[2018.11.15-21.15.09:405][826]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_3
+[2018.11.15-21.15.09:405][826]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_5
+[2018.11.15-21.15.09:665][857]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-845.672 Y=334.635 Z=213.456] for [PosionFood_C]
+[2018.11.15-21.15.09:905][886]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_5
+[2018.11.15-21.15.09:905][886]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_7
+[2018.11.15-21.15.10:406][946]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_3
+[2018.11.15-21.15.10:406][946]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_5
+[2018.11.15-21.15.10:406][946]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_7
+[2018.11.15-21.15.10:906][  6]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_3
+[2018.11.15-21.15.10:906][  6]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_5
+[2018.11.15-21.15.10:906][  6]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_7
+[2018.11.15-21.15.10:982][ 15]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-734.824 Y=515.665 Z=213.382] for [PosionFood_C]
+[2018.11.15-21.15.11:307][ 54]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-734.824 Y=515.665 Z=213.382] for [PosionFood_C]
+[2018.11.15-21.15.11:731][105]LogBlueprintUserMessages: [AI_Patrol6] PosionFood_C_14
+[2018.11.15-21.15.11:906][126]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_3
+[2018.11.15-21.15.11:906][126]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_7
+[2018.11.15-21.15.12:197][161]LogBlueprintUserMessages: [AI_Patrol4] PosionFood_C_0
+[2018.11.15-21.15.12:231][165]LogBlueprintUserMessages: [AI_Patrol6] PosionFood_C_1
+[2018.11.15-21.15.12:231][165]LogBlueprintUserMessages: [AI_Patrol6] PosionFood_C_7
+[2018.11.15-21.15.12:231][165]LogBlueprintUserMessages: [AI_Patrol6] PosionFood_C_14
+[2018.11.15-21.15.12:406][186]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_3
+[2018.11.15-21.15.12:406][186]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_5
+[2018.11.15-21.15.12:406][186]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_7
+[2018.11.15-21.15.12:406][186]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_14
+[2018.11.15-21.15.12:649][215]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.15-21.15.12:649][215]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-21.15.12:680][215]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.15-21.15.12:681][215]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.15-21.15.12:705][215]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-21.15.12:754][219]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2018.11.15-21.15.33:038][294]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-21.15.37:048][772]LogEditorViewport: Clicking on Actor (LMB): AI_Patrol_C (AI_Patrol4)
+[2018.11.15-21.15.39:027][996]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-21.15.39:537][ 56]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-21.15.39:539][ 56]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrints/PatrolAmongAI/AI_Patrol.AI_Patrol
+[2018.11.15-21.15.45:463][535]LogSlate: Window 'AI_Patrol*' being destroyed
+[2018.11.15-21.15.45:467][535]LogSlate: Window 'AI_Patrol*' being destroyed
+[2018.11.15-21.15.46:173][609]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-21.15.46:231][616]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.15-21.15.46:258][616]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.15-21.15.46:258][616]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.15-21.15.46:258][616]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 15, 2018, 7:15:46 AM)
+[2018.11.15-21.15.46:258][616]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.11.15-21.15.46:269][616]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011290s)
+[2018.11.15-21.15.46:270][616]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.11.15-21.15.46:270][616]LogPlayLevel: PIE: World Init took: (0.000640s)
+[2018.11.15-21.15.46:270][616]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012040s)
+[2018.11.15-21.15.46:299][616]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.15-21.15.46:309][616]LogInit: FAudioDevice initialized.
+[2018.11.15-21.15.46:344][616]LogLoad: Game class is 'my_GameMode_C'
+[2018.11.15-21.15.46:347][616]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.11.15-14.15.46
+[2018.11.15-21.15.46:347][616]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2018.11.15-21.15.46:348][616]LogWorld: Bringing up level for play took: 0.004146
+[2018.11.15-21.15.46:360][616]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.11.15-21.15.46:360][616]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.11.15-21.15.46:361][616]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.32
+[2018.11.15-21.15.46:361][616]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.15-21.15.46:393][617]LogBlueprintUserMessages: [AI_Patrol_2] ThirdPersonCharacter_167
+[2018.11.15-21.15.46:892][677]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_0
+[2018.11.15-21.15.47:392][737]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_0
+[2018.11.15-21.15.49:277][963]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-605.806 Y=156.252 Z=213.460] for [PosionFood_C]
+[2018.11.15-21.15.49:642][  7]LogCharacterMovement: ThirdPersonCharacter_167 is stuck and failed to move! Velocity: X=-145.71 Y=478.30 Z=0.00 Location: X=-609.82 Y=204.91 Z=211.52 Normal: X=0.11 Y=-0.37 Z=-0.92 PenetrationDepth:2.864 Actor:PosionFood_C_6 Component:Plate BoneName:None (0 other events since notify)
+[2018.11.15-21.15.49:968][ 46]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-711.612 Y=76.949 Z=213.456] for [PosionFood_C]
+[2018.11.15-21.15.50:135][ 66]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-728.787 Y=27.241 Z=213.456] for [PosionFood_C]
+[2018.11.15-21.15.50:302][ 86]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-728.787 Y=27.241 Z=213.456] for [PosionFood_C]
+[2018.11.15-21.15.50:392][ 97]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_7
+[2018.11.15-21.15.50:609][123]LogBlueprintUserMessages: [AI_Patrol6] PosionFood_C_6
+[2018.11.15-21.15.50:892][157]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_3
+[2018.11.15-21.15.50:893][157]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_7
+[2018.11.15-21.15.50:893][157]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_11
+[2018.11.15-21.15.50:909][159]LogBlueprintUserMessages: [AI_Patrol4] PosionFood_C_0
+[2018.11.15-21.15.51:109][183]LogBlueprintUserMessages: [AI_Patrol6] PosionFood_C_6
+[2018.11.15-21.15.51:392][217]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_3
+[2018.11.15-21.15.51:392][217]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_11
+[2018.11.15-21.15.51:409][219]LogBlueprintUserMessages: [AI_Patrol4] PosionFood_C_11
+[2018.11.15-21.15.51:609][243]LogBlueprintUserMessages: [AI_Patrol6] PosionFood_C_2
+[2018.11.15-21.15.51:609][243]LogBlueprintUserMessages: [AI_Patrol6] PosionFood_C_5
+[2018.11.15-21.15.51:685][252]LogBlueprintUserMessages: [AI_Patrol5] PosionFood_C_0
+[2018.11.15-21.15.51:893][277]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_3
+[2018.11.15-21.15.51:893][277]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_7
+[2018.11.15-21.15.51:893][277]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_11
+[2018.11.15-21.15.51:910][279]LogBlueprintUserMessages: [AI_Patrol4] PosionFood_C_0
+[2018.11.15-21.15.51:910][279]LogBlueprintUserMessages: [AI_Patrol4] PosionFood_C_3
+[2018.11.15-21.15.51:910][279]LogBlueprintUserMessages: [AI_Patrol4] PosionFood_C_11
+[2018.11.15-21.15.52:109][303]LogBlueprintUserMessages: [AI_Patrol6] ThirdPersonCharacter_167
+[2018.11.15-21.15.52:109][303]LogBlueprintUserMessages: [AI_Patrol6] PosionFood_C_2
+[2018.11.15-21.15.52:109][303]LogBlueprintUserMessages: [AI_Patrol6] PosionFood_C_5
+[2018.11.15-21.15.52:185][312]LogBlueprintUserMessages: [AI_Patrol5] PosionFood_C_0
+[2018.11.15-21.15.52:202][314]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-513.158 Y=538.502 Z=213.391] for [PosionFood_C]
+[2018.11.15-21.15.52:392][337]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_3
+[2018.11.15-21.15.52:392][337]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_7
+[2018.11.15-21.15.52:392][337]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_11
+[2018.11.15-21.15.52:409][339]LogBlueprintUserMessages: [AI_Patrol4] PosionFood_C_0
+[2018.11.15-21.15.52:409][339]LogBlueprintUserMessages: [AI_Patrol4] PosionFood_C_3
+[2018.11.15-21.15.52:409][339]LogBlueprintUserMessages: [AI_Patrol4] PosionFood_C_11
+[2018.11.15-21.15.52:610][363]LogBlueprintUserMessages: [AI_Patrol6] PosionFood_2
+[2018.11.15-21.15.52:610][363]LogBlueprintUserMessages: [AI_Patrol6] ThirdPersonCharacter_167
+[2018.11.15-21.15.52:610][363]LogBlueprintUserMessages: [AI_Patrol6] PosionFood_C_2
+[2018.11.15-21.15.52:610][363]LogBlueprintUserMessages: [AI_Patrol6] PosionFood_C_12
+[2018.11.15-21.15.52:685][372]LogBlueprintUserMessages: [AI_Patrol5] PosionFood_C_0
+[2018.11.15-21.15.52:893][397]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_3
+[2018.11.15-21.15.52:893][397]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_7
+[2018.11.15-21.15.52:893][397]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_11
+[2018.11.15-21.15.52:909][399]LogBlueprintUserMessages: [AI_Patrol4] PosionFood_C_3
+[2018.11.15-21.15.52:909][399]LogBlueprintUserMessages: [AI_Patrol4] PosionFood_C_7
+[2018.11.15-21.15.53:110][423]LogBlueprintUserMessages: [AI_Patrol6] ThirdPersonCharacter_167
+[2018.11.15-21.15.53:110][423]LogBlueprintUserMessages: [AI_Patrol6] PosionFood_C_2
+[2018.11.15-21.15.53:110][423]LogBlueprintUserMessages: [AI_Patrol6] PosionFood_C_13
+[2018.11.15-21.15.53:110][423]LogBlueprintUserMessages: [AI_Patrol6] PosionFood_C_15
+[2018.11.15-21.15.53:185][432]LogBlueprintUserMessages: [AI_Patrol5] PosionFood_C_0
+[2018.11.15-21.15.53:220][436]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-453.616 Y=814.129 Z=213.327] for [PosionFood_C]
+[2018.11.15-21.15.53:393][457]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_3
+[2018.11.15-21.15.53:393][457]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_11
+[2018.11.15-21.15.53:410][459]LogBlueprintUserMessages: [AI_Patrol4] PosionFood_C_7
+[2018.11.15-21.15.53:410][459]LogBlueprintUserMessages: [AI_Patrol4] PosionFood_C_11
+[2018.11.15-21.15.53:610][483]LogBlueprintUserMessages: [AI_Patrol6] ThirdPersonCharacter_167
+[2018.11.15-21.15.53:610][483]LogBlueprintUserMessages: [AI_Patrol6] PosionFood_C_2
+[2018.11.15-21.15.53:610][483]LogBlueprintUserMessages: [AI_Patrol6] PosionFood_C_13
+[2018.11.15-21.15.53:610][483]LogBlueprintUserMessages: [AI_Patrol6] PosionFood_C_15
+[2018.11.15-21.15.53:685][492]LogBlueprintUserMessages: [AI_Patrol5] PosionFood_C_0
+[2018.11.15-21.15.53:893][517]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_3
+[2018.11.15-21.15.53:894][517]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_7
+[2018.11.15-21.15.53:910][519]LogBlueprintUserMessages: [AI_Patrol4] PosionFood_C_7
+[2018.11.15-21.15.53:910][519]LogBlueprintUserMessages: [AI_Patrol4] PosionFood_C_11
+[2018.11.15-21.15.54:110][543]LogBlueprintUserMessages: [AI_Patrol6] ThirdPersonCharacter_167
+[2018.11.15-21.15.54:110][543]LogBlueprintUserMessages: [AI_Patrol6] PosionFood_C_2
+[2018.11.15-21.15.54:110][543]LogBlueprintUserMessages: [AI_Patrol6] PosionFood_C_13
+[2018.11.15-21.15.54:110][543]LogBlueprintUserMessages: [AI_Patrol6] PosionFood_C_17
+[2018.11.15-21.15.54:185][552]LogBlueprintUserMessages: [AI_Patrol5] PosionFood_C_0
+[2018.11.15-21.15.54:394][577]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_3
+[2018.11.15-21.15.54:394][577]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_7
+[2018.11.15-21.15.54:394][577]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_11
+[2018.11.15-21.15.54:410][579]LogBlueprintUserMessages: [AI_Patrol4] PosionFood_C_3
+[2018.11.15-21.15.54:410][579]LogBlueprintUserMessages: [AI_Patrol4] PosionFood_C_11
+[2018.11.15-21.15.54:610][603]LogBlueprintUserMessages: [AI_Patrol6] ThirdPersonCharacter_167
+[2018.11.15-21.15.54:610][603]LogBlueprintUserMessages: [AI_Patrol6] PosionFood_C_2
+[2018.11.15-21.15.54:610][603]LogBlueprintUserMessages: [AI_Patrol6] PosionFood_C_13
+[2018.11.15-21.15.54:610][603]LogBlueprintUserMessages: [AI_Patrol6] PosionFood_C_17
+[2018.11.15-21.15.54:686][612]LogBlueprintUserMessages: [AI_Patrol5] PosionFood_C_0
+[2018.11.15-21.15.54:893][637]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_3
+[2018.11.15-21.15.54:893][637]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_7
+[2018.11.15-21.15.54:893][637]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_11
+[2018.11.15-21.15.54:910][639]LogBlueprintUserMessages: [AI_Patrol4] PosionFood_C_3
+[2018.11.15-21.15.54:910][639]LogBlueprintUserMessages: [AI_Patrol4] PosionFood_C_11
+[2018.11.15-21.15.55:110][663]LogBlueprintUserMessages: [AI_Patrol6] ThirdPersonCharacter_167
+[2018.11.15-21.15.55:110][663]LogBlueprintUserMessages: [AI_Patrol6] PosionFood_C_2
+[2018.11.15-21.15.55:111][663]LogBlueprintUserMessages: [AI_Patrol6] PosionFood_C_13
+[2018.11.15-21.15.55:111][663]LogBlueprintUserMessages: [AI_Patrol6] PosionFood_C_17
+[2018.11.15-21.15.55:394][697]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_3
+[2018.11.15-21.15.55:410][699]LogBlueprintUserMessages: [AI_Patrol4] PosionFood_C_7
+[2018.11.15-21.15.55:410][699]LogBlueprintUserMessages: [AI_Patrol4] PosionFood_C_11
+[2018.11.15-21.15.55:552][716]LogBlueprintUserMessages: [AI_Patrol2] PosionFood_C_15
+[2018.11.15-21.15.55:610][723]LogBlueprintUserMessages: [AI_Patrol6] ThirdPersonCharacter_167
+[2018.11.15-21.15.55:610][723]LogBlueprintUserMessages: [AI_Patrol6] PosionFood_C_2
+[2018.11.15-21.15.55:610][723]LogBlueprintUserMessages: [AI_Patrol6] PosionFood_C_17
+[2018.11.15-21.15.55:894][757]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_3
+[2018.11.15-21.15.55:894][757]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_11
+[2018.11.15-21.15.55:910][759]LogBlueprintUserMessages: [AI_Patrol4] PosionFood_C_0
+[2018.11.15-21.15.56:110][783]LogBlueprintUserMessages: [AI_Patrol6] ThirdPersonCharacter_167
+[2018.11.15-21.15.56:110][783]LogBlueprintUserMessages: [AI_Patrol6] PosionFood_C_2
+[2018.11.15-21.15.56:394][817]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_3
+[2018.11.15-21.15.56:394][817]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_7
+[2018.11.15-21.15.56:394][817]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_11
+[2018.11.15-21.15.56:410][819]LogBlueprintUserMessages: [AI_Patrol4] PosionFood_C_0
+[2018.11.15-21.15.56:410][819]LogBlueprintUserMessages: [AI_Patrol4] PosionFood_C_17
+[2018.11.15-21.15.56:611][843]LogBlueprintUserMessages: [AI_Patrol6] ThirdPersonCharacter_167
+[2018.11.15-21.15.56:611][843]LogBlueprintUserMessages: [AI_Patrol6] PosionFood_C_2
+[2018.11.15-21.15.56:611][843]LogBlueprintUserMessages: [AI_Patrol6] PosionFood_C_13
+[2018.11.15-21.15.56:893][877]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_3
+[2018.11.15-21.15.56:893][877]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_11
+[2018.11.15-21.15.56:910][879]LogBlueprintUserMessages: [AI_Patrol4] PosionFood_C_0
+[2018.11.15-21.15.56:910][879]LogBlueprintUserMessages: [AI_Patrol4] PosionFood_C_17
+[2018.11.15-21.15.57:110][903]LogBlueprintUserMessages: [AI_Patrol6] ThirdPersonCharacter_167
+[2018.11.15-21.15.57:110][903]LogBlueprintUserMessages: [AI_Patrol6] PosionFood_C_2
+[2018.11.15-21.15.57:110][903]LogBlueprintUserMessages: [AI_Patrol6] PosionFood_C_13
+[2018.11.15-21.15.57:394][937]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_3
+[2018.11.15-21.15.57:394][937]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_7
+[2018.11.15-21.15.57:394][937]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_11
+[2018.11.15-21.15.57:410][939]LogBlueprintUserMessages: [AI_Patrol4] PosionFood_C_0
+[2018.11.15-21.15.57:611][963]LogBlueprintUserMessages: [AI_Patrol6] ThirdPersonCharacter_167
+[2018.11.15-21.15.57:612][963]LogBlueprintUserMessages: [AI_Patrol6] PosionFood_C_2
+[2018.11.15-21.15.57:612][963]LogBlueprintUserMessages: [AI_Patrol6] PosionFood_C_13
+[2018.11.15-21.15.57:894][997]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_3
+[2018.11.15-21.15.57:894][997]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_7
+[2018.11.15-21.15.57:911][999]LogBlueprintUserMessages: [AI_Patrol4] PosionFood_C_17
+[2018.11.15-21.15.58:111][ 23]LogBlueprintUserMessages: [AI_Patrol6] ThirdPersonCharacter_167
+[2018.11.15-21.15.58:111][ 23]LogBlueprintUserMessages: [AI_Patrol6] PosionFood_C_2
+[2018.11.15-21.15.58:111][ 23]LogBlueprintUserMessages: [AI_Patrol6] PosionFood_C_13
+[2018.11.15-21.15.58:111][ 23]LogBlueprintUserMessages: [AI_Patrol6] PosionFood_C_17
+[2018.11.15-21.15.58:111][ 23]LogBlueprintUserMessages: [AI_Patrol6] PosionFood_C_18
+[2018.11.15-21.15.58:111][ 23]LogBlueprintUserMessages: [AI_Patrol6] PosionFood_C_19
+[2018.11.15-21.15.58:394][ 57]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_3
+[2018.11.15-21.15.58:394][ 57]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_7
+[2018.11.15-21.15.58:394][ 57]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_11
+[2018.11.15-21.15.58:411][ 59]LogBlueprintUserMessages: [AI_Patrol4] PosionFood_C_17
+[2018.11.15-21.15.58:611][ 83]LogBlueprintUserMessages: [AI_Patrol6] ThirdPersonCharacter_167
+[2018.11.15-21.15.58:611][ 83]LogBlueprintUserMessages: [AI_Patrol6] PosionFood_C_2
+[2018.11.15-21.15.58:611][ 83]LogBlueprintUserMessages: [AI_Patrol6] PosionFood_C_17
+[2018.11.15-21.15.58:611][ 83]LogBlueprintUserMessages: [AI_Patrol6] PosionFood_C_18
+[2018.11.15-21.15.58:611][ 83]LogBlueprintUserMessages: [AI_Patrol6] PosionFood_C_19
+[2018.11.15-21.15.58:611][ 83]LogBlueprintUserMessages: [AI_Patrol6] PosionFood_C_20
+[2018.11.15-21.15.58:611][ 83]LogBlueprintUserMessages: [AI_Patrol6] PosionFood_C_21
+[2018.11.15-21.15.58:894][117]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_3
+[2018.11.15-21.15.58:894][117]LogBlueprintUserMessages: [AI_Patrol_2] PosionFood_C_11
+[2018.11.15-21.15.58:910][119]LogBlueprintUserMessages: [AI_Patrol4] PosionFood_C_17
+[2018.11.15-21.15.58:910][119]LogBlueprintUserMessages: [AI_Patrol4] PosionFood_C_18
+[2018.11.15-21.15.59:111][143]LogBlueprintUserMessages: [AI_Patrol6] ThirdPersonCharacter_167
+[2018.11.15-21.15.59:111][143]LogBlueprintUserMessages: [AI_Patrol6] PosionFood_C_2
+[2018.11.15-21.15.59:111][143]LogBlueprintUserMessages: [AI_Patrol6] PosionFood_C_19
+[2018.11.15-21.15.59:111][143]LogBlueprintUserMessages: [AI_Patrol6] PosionFood_C_20
+[2018.11.15-21.15.59:111][143]LogBlueprintUserMessages: [AI_Patrol6] PosionFood_C_21
+[2018.11.15-21.15.59:387][176]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.15-21.15.59:387][176]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-21.15.59:421][176]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.15-21.15.59:422][176]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.15-21.15.59:443][176]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-21.15.59:491][180]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2018.11.15-21.16.00:485][299]LogEditorViewport: Clicking on Actor (LMB): AI_Patrol_C (AI_Patrol)
+[2018.11.15-21.16.09:711][145]LogEditorViewport: Clicking on Actor (LMB): AI_Patrol_C (AI_Patrol4)
+[2018.11.15-21.16.11:363][331]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-21.16.11:882][392]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-21.16.11:884][392]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrints/PatrolAmongAI/AI_Patrol.AI_Patrol
+[2018.11.15-21.16.44:198][101]BlueprintLog: New page: Compile AI_Patrol
+[2018.11.15-21.16.45:816][222]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-21.16.45:875][229]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.15-21.16.45:908][229]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.15-21.16.45:909][229]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.15-21.16.45:909][229]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 15, 2018, 7:16:45 AM)
+[2018.11.15-21.16.45:909][229]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.11.15-21.16.45:919][229]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011599s)
+[2018.11.15-21.16.45:920][229]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.11.15-21.16.45:920][229]LogPlayLevel: PIE: World Init took: (0.000586s)
+[2018.11.15-21.16.45:920][229]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012294s)
+[2018.11.15-21.16.45:956][229]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.15-21.16.45:969][229]LogInit: FAudioDevice initialized.
+[2018.11.15-21.16.45:998][229]LogLoad: Game class is 'my_GameMode_C'
+[2018.11.15-21.16.46:002][229]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.11.15-14.16.46
+[2018.11.15-21.16.46:002][229]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2018.11.15-21.16.46:003][229]LogWorld: Bringing up level for play took: 0.004365
+[2018.11.15-21.16.46:014][229]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.11.15-21.16.46:014][229]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.11.15-21.16.46:015][229]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.665
+[2018.11.15-21.16.46:015][229]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.15-21.16.46:133][240]LogBlueprintUserMessages: [AI_Patrol_2] AI_PatrolThirdPersonCharacter_167
+[2018.11.15-21.16.46:134][240]LogBlueprintUserMessages: [AI_Patrol_2] AI_PatrolPosionFood_C_0
+[2018.11.15-21.16.46:551][290]LogBlueprintUserMessages: [AI_Patrol2] AI_Patrol2PosionFood_2
+[2018.11.15-21.16.46:634][300]LogBlueprintUserMessages: [AI_Patrol_2] AI_PatrolPosionFood_C_0
+[2018.11.15-21.16.47:859][447]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.15-21.16.47:860][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-21.16.47:892][447]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.15-21.16.47:893][447]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.15-21.16.47:918][447]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-21.16.47:959][450]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2018.11.15-21.16.48:321][484]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-21.16.59:125][703]BlueprintLog: New page: Compile AI_Patrol
+[2018.11.15-21.17.00:697][850]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-21.17.00:763][858]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.15-21.17.00:797][858]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.15-21.17.00:797][858]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.15-21.17.00:797][858]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 15, 2018, 7:17:00 AM)
+[2018.11.15-21.17.00:797][858]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.11.15-21.17.00:808][858]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011346s)
+[2018.11.15-21.17.00:809][858]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.11.15-21.17.00:809][858]LogPlayLevel: PIE: World Init took: (0.000695s)
+[2018.11.15-21.17.00:809][858]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012147s)
+[2018.11.15-21.17.00:839][858]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.15-21.17.00:850][858]LogInit: FAudioDevice initialized.
+[2018.11.15-21.17.00:882][858]LogLoad: Game class is 'my_GameMode_C'
+[2018.11.15-21.17.00:887][858]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.11.15-14.17.00
+[2018.11.15-21.17.00:887][858]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2018.11.15-21.17.00:888][858]LogWorld: Bringing up level for play took: 0.004602
+[2018.11.15-21.17.00:900][858]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.11.15-21.17.00:900][858]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.11.15-21.17.00:901][858]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.221
+[2018.11.15-21.17.00:901][858]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.15-21.17.01:041][871]LogBlueprintUserMessages: [AI_Patrol_2] AI_Patrol   Found:   PosionFood_C_0
+[2018.11.15-21.17.01:183][888]LogBlueprintUserMessages: [AI_Patrol3] AI_Patrol3   Found:   PosionFood_2
+[2018.11.15-21.17.01:216][892]LogBlueprintUserMessages: [AI_Patrol2] AI_Patrol2   Found:   PosionFood_2
+[2018.11.15-21.17.01:216][892]LogBlueprintUserMessages: [AI_Patrol2] AI_Patrol2   Found:   ThirdPersonCharacter_167
+[2018.11.15-21.17.01:540][931]LogBlueprintUserMessages: [AI_Patrol_2] AI_Patrol   Found:   PosionFood_C_0
+[2018.11.15-21.17.01:716][952]LogBlueprintUserMessages: [AI_Patrol2] AI_Patrol2   Found:   PosionFood_2
+[2018.11.15-21.17.02:182][  8]LogBlueprintUserMessages: [AI_Patrol3] AI_Patrol3   Found:   PosionFood_2
+[2018.11.15-21.17.02:215][ 12]LogBlueprintUserMessages: [AI_Patrol2] AI_Patrol2   Found:   PosionFood_2
+[2018.11.15-21.17.02:682][ 68]LogBlueprintUserMessages: [AI_Patrol3] AI_Patrol3   Found:   PosionFood_2
+[2018.11.15-21.17.02:715][ 72]LogBlueprintUserMessages: [AI_Patrol2] AI_Patrol2   Found:   ThirdPersonCharacter_167
+[2018.11.15-21.17.03:216][132]LogBlueprintUserMessages: [AI_Patrol2] AI_Patrol2   Found:   ThirdPersonCharacter_167
+[2018.11.15-21.17.03:715][192]LogBlueprintUserMessages: [AI_Patrol2] AI_Patrol2   Found:   ThirdPersonCharacter_167
+[2018.11.15-21.17.03:941][219]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol4   Found:   PosionFood_C_0
+[2018.11.15-21.17.04:216][252]LogBlueprintUserMessages: [AI_Patrol2] AI_Patrol2   Found:   ThirdPersonCharacter_167
+[2018.11.15-21.17.04:440][279]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol4   Found:   PosionFood_C_0
+[2018.11.15-21.17.04:715][312]LogBlueprintUserMessages: [AI_Patrol2] AI_Patrol2   Found:   ThirdPersonCharacter_167
+[2018.11.15-21.17.04:941][339]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol4   Found:   PosionFood_C_0
+[2018.11.15-21.17.05:182][368]LogBlueprintUserMessages: [AI_Patrol3] AI_Patrol3   Found:   PosionFood_2
+[2018.11.15-21.17.05:216][372]LogBlueprintUserMessages: [AI_Patrol2] AI_Patrol2   Found:   ThirdPersonCharacter_167
+[2018.11.15-21.17.05:440][399]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol4   Found:   PosionFood_C_0
+[2018.11.15-21.17.05:682][428]LogBlueprintUserMessages: [AI_Patrol3] AI_Patrol3   Found:   PosionFood_2
+[2018.11.15-21.17.05:682][428]LogBlueprintUserMessages: [AI_Patrol3] AI_Patrol3   Found:   ThirdPersonCharacter_167
+[2018.11.15-21.17.05:716][432]LogBlueprintUserMessages: [AI_Patrol2] AI_Patrol2   Found:   ThirdPersonCharacter_167
+[2018.11.15-21.17.05:940][459]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol4   Found:   PosionFood_C_0
+[2018.11.15-21.17.06:183][488]LogBlueprintUserMessages: [AI_Patrol3] AI_Patrol3   Found:   ThirdPersonCharacter_167
+[2018.11.15-21.17.06:183][488]LogBlueprintUserMessages: [AI_Patrol3] AI_Patrol3   Found:   PosionFood_C_0
+[2018.11.15-21.17.06:440][519]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol4   Found:   PosionFood_C_0
+[2018.11.15-21.17.06:682][548]LogBlueprintUserMessages: [AI_Patrol3] AI_Patrol3   Found:   PosionFood_2
+[2018.11.15-21.17.06:682][548]LogBlueprintUserMessages: [AI_Patrol3] AI_Patrol3   Found:   ThirdPersonCharacter_167
+[2018.11.15-21.17.06:941][579]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol4   Found:   PosionFood_C_0
+[2018.11.15-21.17.07:182][608]LogBlueprintUserMessages: [AI_Patrol3] AI_Patrol3   Found:   ThirdPersonCharacter_167
+[2018.11.15-21.17.07:441][639]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol4   Found:   PosionFood_C_0
+[2018.11.15-21.17.07:683][668]LogBlueprintUserMessages: [AI_Patrol3] AI_Patrol3   Found:   ThirdPersonCharacter_167
+[2018.11.15-21.17.07:683][668]LogBlueprintUserMessages: [AI_Patrol3] AI_Patrol3   Found:   PosionFood_C_0
+[2018.11.15-21.17.07:941][699]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol4   Found:   PosionFood_C_0
+[2018.11.15-21.17.08:308][743]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.15-21.17.08:308][743]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-21.17.08:345][743]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.15-21.17.08:346][743]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.15-21.17.08:371][743]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-21.17.08:411][746]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2018.11.15-21.17.08:913][806]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2018.11.15-21.17.10:542][987]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-21.17.19:020][858]LogSlate: Window 'AI_Patrol*' being destroyed
+[2018.11.15-21.17.19:024][858]LogSlate: Window 'AI_Patrol*' being destroyed
+[2018.11.15-21.17.19:753][934]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-21.17.26:383][645]LogEditorViewport: Clicking on Actor (LMB): AI_Patrol_C (AI_Patrol)
+[2018.11.15-21.17.29:992][  5]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall10)
+[2018.11.15-21.17.30:404][ 48]LogEditorViewport: Clicking on Actor (LMB): AI_Patrol_C (AI_Patrol)
+[2018.11.15-21.17.33:707][381]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-21.17.39:636][ 34]LogEditorViewport: Clicking on Actor (LMB): AI_Patrol_C (AI_Patrol)
+[2018.11.15-21.17.39:733][ 42]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (CharacterMesh0)
+[2018.11.15-21.17.40:309][107]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (CharacterMesh0)
+[2018.11.15-21.17.41:632][263]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-21.17.42:105][319]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-21.17.42:107][319]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrints/PatrolAmongAI/AI_Patrol.AI_Patrol
+[2018.11.15-21.17.51:716][244]BlueprintLog: New page: Compile AI_Patrol
+[2018.11.15-21.17.53:074][357]LogSlate: Window 'AI_Patrol*' being destroyed
+[2018.11.15-21.17.53:078][357]LogSlate: Window 'AI_Patrol*' being destroyed
+[2018.11.15-21.17.53:662][417]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-21.17.53:737][426]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.15-21.17.53:758][426]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.15-21.17.53:758][426]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.15-21.17.53:758][426]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 15, 2018, 7:17:53 AM)
+[2018.11.15-21.17.53:758][426]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.11.15-21.17.53:769][426]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011281s)
+[2018.11.15-21.17.53:770][426]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.11.15-21.17.53:770][426]LogPlayLevel: PIE: World Init took: (0.000772s)
+[2018.11.15-21.17.53:770][426]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012174s)
+[2018.11.15-21.17.53:808][426]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.15-21.17.53:818][426]LogInit: FAudioDevice initialized.
+[2018.11.15-21.17.53:849][426]LogLoad: Game class is 'my_GameMode_C'
+[2018.11.15-21.17.53:854][426]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.11.15-14.17.53
+[2018.11.15-21.17.53:854][426]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2018.11.15-21.17.53:855][426]LogWorld: Bringing up level for play took: 0.004773
+[2018.11.15-21.17.53:867][426]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.11.15-21.17.53:867][426]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.11.15-21.17.53:868][426]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.813
+[2018.11.15-21.17.53:868][426]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.15-21.17.54:403][487]LogBlueprintUserMessages: [AI_Patrol_2] AI_Patrol   Found:   PosionFood_C_0
+[2018.11.15-21.17.54:403][487]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol4   Found:   PosionFood_C_0
+[2018.11.15-21.17.54:903][547]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol4   Found:   PosionFood_C_0
+[2018.11.15-21.17.55:403][607]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol4   Found:   PosionFood_C_0
+[2018.11.15-21.17.55:505][619]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-527.910 Y=354.397 Z=213.456] for [PosionFood_C]
+[2018.11.15-21.17.55:804][655]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-527.910 Y=354.397 Z=213.456] for [PosionFood_C]
+[2018.11.15-21.17.55:904][667]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol4   Found:   PosionFood_C_0
+[2018.11.15-21.17.56:130][694]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-527.910 Y=354.397 Z=213.456] for [PosionFood_C]
+[2018.11.15-21.17.56:404][727]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol4   Found:   PosionFood_C_0
+[2018.11.15-21.17.56:463][734]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-577.196 Y=312.051 Z=213.456] for [PosionFood_C]
+[2018.11.15-21.17.56:903][787]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol4   Found:   PosionFood_C_0
+[2018.11.15-21.17.56:903][787]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol4   Found:   PosionFood_C_9
+[2018.11.15-21.17.57:403][847]LogBlueprintUserMessages: [AI_Patrol_2] AI_Patrol   Found:   PosionFood_C_10
+[2018.11.15-21.17.57:403][847]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol4   Found:   PosionFood_C_0
+[2018.11.15-21.17.57:679][880]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-600.264 Y=309.988 Z=213.457] for [PosionFood_C]
+[2018.11.15-21.17.57:904][907]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol4   Found:   PosionFood_C_7
+[2018.11.15-21.17.57:904][907]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol4   Found:   PosionFood_C_9
+[2018.11.15-21.17.57:904][907]LogBlueprintUserMessages: [AI_Patrol_2] AI_Patrol   Found:   PosionFood_C_10
+[2018.11.15-21.17.58:006][919]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-600.264 Y=309.988 Z=213.457] for [PosionFood_C]
+[2018.11.15-21.17.58:404][967]LogBlueprintUserMessages: [AI_Patrol_2] AI_Patrol   Found:   PosionFood_C_10
+[2018.11.15-21.17.58:404][967]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol4   Found:   PosionFood_C_7
+[2018.11.15-21.17.58:404][967]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol4   Found:   PosionFood_C_9
+[2018.11.15-21.17.58:404][967]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol4   Found:   PosionFood_C_13
+[2018.11.15-21.17.58:404][967]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol4   Found:   PosionFood_C_17
+[2018.11.15-21.17.58:905][ 27]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol4   Found:   PosionFood_C_7
+[2018.11.15-21.17.58:905][ 27]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol4   Found:   PosionFood_C_9
+[2018.11.15-21.17.58:905][ 27]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol4   Found:   PosionFood_C_13
+[2018.11.15-21.17.58:905][ 27]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol4   Found:   PosionFood_C_15
+[2018.11.15-21.17.58:905][ 27]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol4   Found:   PosionFood_C_19
+[2018.11.15-21.17.58:905][ 27]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol4   Found:   PosionFood_C_20
+[2018.11.15-21.17.58:905][ 27]LogBlueprintUserMessages: [AI_Patrol_2] AI_Patrol   Found:   PosionFood_C_10
+[2018.11.15-21.17.58:905][ 27]LogBlueprintUserMessages: [AI_Patrol6] AI_Patrol6   Found:   PosionFood_C_12
+[2018.11.15-21.17.58:905][ 27]LogBlueprintUserMessages: [AI_Patrol6] AI_Patrol6   Found:   PosionFood_C_18
+[2018.11.15-21.17.58:905][ 27]LogBlueprintUserMessages: [AI_Patrol6] AI_Patrol6   Found:   PosionFood_C_19
+[2018.11.15-21.17.59:046][ 44]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-589.695 Y=280.812 Z=213.522] for [PosionFood_C]
+[2018.11.15-21.17.59:405][ 87]LogBlueprintUserMessages: [AI_Patrol6] AI_Patrol6   Found:   PosionFood_C_18
+[2018.11.15-21.17.59:405][ 87]LogBlueprintUserMessages: [AI_Patrol6] AI_Patrol6   Found:   PosionFood_C_19
+[2018.11.15-21.17.59:405][ 87]LogBlueprintUserMessages: [AI_Patrol_2] AI_Patrol   Found:   PosionFood_C_10
+[2018.11.15-21.17.59:405][ 87]LogBlueprintUserMessages: [AI_Patrol_2] AI_Patrol   Found:   PosionFood_C_18
+[2018.11.15-21.17.59:405][ 87]LogBlueprintUserMessages: [AI_Patrol_2] AI_Patrol   Found:   PosionFood_C_19
+[2018.11.15-21.17.59:405][ 87]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol4   Found:   PosionFood_C_13
+[2018.11.15-21.17.59:405][ 87]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol4   Found:   PosionFood_C_15
+[2018.11.15-21.17.59:405][ 87]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol4   Found:   PosionFood_C_17
+[2018.11.15-21.17.59:405][ 87]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol4   Found:   PosionFood_C_19
+[2018.11.15-21.17.59:405][ 87]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol4   Found:   PosionFood_C_20
+[2018.11.15-21.17.59:405][ 87]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol4   Found:   PosionFood_C_22
+[2018.11.15-21.17.59:405][ 87]LogBlueprintUserMessages: [AI_Patrol3] AI_Patrol3   Found:   PosionFood_C_3
+[2018.11.15-21.17.59:905][147]LogBlueprintUserMessages: [AI_Patrol3] AI_Patrol3   Found:   PosionFood_2
+[2018.11.15-21.17.59:905][147]LogBlueprintUserMessages: [AI_Patrol3] AI_Patrol3   Found:   PosionFood_C_3
+[2018.11.15-21.17.59:905][147]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol4   Found:   PosionFood_C_7
+[2018.11.15-21.17.59:905][147]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol4   Found:   PosionFood_C_13
+[2018.11.15-21.17.59:905][147]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol4   Found:   PosionFood_C_17
+[2018.11.15-21.17.59:905][147]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol4   Found:   PosionFood_C_18
+[2018.11.15-21.17.59:905][147]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol4   Found:   PosionFood_C_22
+[2018.11.15-21.17.59:905][147]LogBlueprintUserMessages: [AI_Patrol_2] AI_Patrol   Found:   PosionFood_C_10
+[2018.11.15-21.17.59:905][147]LogBlueprintUserMessages: [AI_Patrol_2] AI_Patrol   Found:   PosionFood_C_12
+[2018.11.15-21.17.59:905][147]LogBlueprintUserMessages: [AI_Patrol6] AI_Patrol6   Found:   PosionFood_C_17
+[2018.11.15-21.17.59:905][147]LogBlueprintUserMessages: [AI_Patrol6] AI_Patrol6   Found:   PosionFood_C_18
+[2018.11.15-21.17.59:905][147]LogBlueprintUserMessages: [AI_Patrol6] AI_Patrol6   Found:   PosionFood_C_19
+[2018.11.15-21.18.00:406][205]LogBlueprintUserMessages: [AI_Patrol_2] AI_Patrol   Found:   PosionFood_C_10
+[2018.11.15-21.18.00:406][205]LogBlueprintUserMessages: [AI_Patrol_2] AI_Patrol   Found:   PosionFood_C_12
+[2018.11.15-21.18.00:406][205]LogBlueprintUserMessages: [AI_Patrol_2] AI_Patrol   Found:   PosionFood_C_19
+[2018.11.15-21.18.00:406][205]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol4   Found:   PosionFood_C_10
+[2018.11.15-21.18.00:406][205]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol4   Found:   PosionFood_C_15
+[2018.11.15-21.18.00:406][205]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol4   Found:   PosionFood_C_19
+[2018.11.15-21.18.00:406][205]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol4   Found:   PosionFood_C_22
+[2018.11.15-21.18.00:406][205]LogBlueprintUserMessages: [AI_Patrol6] AI_Patrol6   Found:   PosionFood_C_11
+[2018.11.15-21.18.00:406][205]LogBlueprintUserMessages: [AI_Patrol6] AI_Patrol6   Found:   PosionFood_C_12
+[2018.11.15-21.18.00:406][205]LogBlueprintUserMessages: [AI_Patrol6] AI_Patrol6   Found:   PosionFood_C_17
+[2018.11.15-21.18.00:406][205]LogBlueprintUserMessages: [AI_Patrol6] AI_Patrol6   Found:   PosionFood_C_22
+[2018.11.15-21.18.00:906][265]LogBlueprintUserMessages: [AI_Patrol3] AI_Patrol3   Found:   PosionFood_C_1
+[2018.11.15-21.18.00:906][265]LogBlueprintUserMessages: [AI_Patrol3] AI_Patrol3   Found:   PosionFood_C_5
+[2018.11.15-21.18.00:906][265]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol4   Found:   PosionFood_C_17
+[2018.11.15-21.18.00:906][265]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol4   Found:   PosionFood_C_18
+[2018.11.15-21.18.00:906][265]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol4   Found:   PosionFood_C_22
+[2018.11.15-21.18.00:906][265]LogBlueprintUserMessages: [AI_Patrol_2] AI_Patrol   Found:   PosionFood_C_10
+[2018.11.15-21.18.00:906][265]LogBlueprintUserMessages: [AI_Patrol_2] AI_Patrol   Found:   PosionFood_C_12
+[2018.11.15-21.18.00:906][265]LogBlueprintUserMessages: [AI_Patrol_2] AI_Patrol   Found:   PosionFood_C_18
+[2018.11.15-21.18.00:906][265]LogBlueprintUserMessages: [AI_Patrol_2] AI_Patrol   Found:   PosionFood_C_19
+[2018.11.15-21.18.00:906][265]LogBlueprintUserMessages: [AI_Patrol6] AI_Patrol6   Found:   PosionFood_C_11
+[2018.11.15-21.18.00:906][265]LogBlueprintUserMessages: [AI_Patrol6] AI_Patrol6   Found:   PosionFood_C_12
+[2018.11.15-21.18.00:906][265]LogBlueprintUserMessages: [AI_Patrol6] AI_Patrol6   Found:   PosionFood_C_18
+[2018.11.15-21.18.00:906][265]LogBlueprintUserMessages: [AI_Patrol6] AI_Patrol6   Found:   PosionFood_C_22
+[2018.11.15-21.18.01:406][325]LogBlueprintUserMessages: [AI_Patrol6] AI_Patrol6   Found:   PosionFood_C_12
+[2018.11.15-21.18.01:406][325]LogBlueprintUserMessages: [AI_Patrol6] AI_Patrol6   Found:   PosionFood_C_17
+[2018.11.15-21.18.01:406][325]LogBlueprintUserMessages: [AI_Patrol6] AI_Patrol6   Found:   PosionFood_C_18
+[2018.11.15-21.18.01:406][325]LogBlueprintUserMessages: [AI_Patrol_2] AI_Patrol   Found:   PosionFood_C_10
+[2018.11.15-21.18.01:406][325]LogBlueprintUserMessages: [AI_Patrol_2] AI_Patrol   Found:   PosionFood_C_18
+[2018.11.15-21.18.01:406][325]LogBlueprintUserMessages: [AI_Patrol_2] AI_Patrol   Found:   PosionFood_C_19
+[2018.11.15-21.18.01:406][325]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol4   Found:   PosionFood_C_17
+[2018.11.15-21.18.01:406][325]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol4   Found:   PosionFood_C_18
+[2018.11.15-21.18.01:406][325]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol4   Found:   PosionFood_C_22
+[2018.11.15-21.18.01:406][325]LogBlueprintUserMessages: [AI_Patrol3] AI_Patrol3   Found:   PosionFood_2
+[2018.11.15-21.18.01:406][325]LogBlueprintUserMessages: [AI_Patrol3] AI_Patrol3   Found:   PosionFood_C_3
+[2018.11.15-21.18.01:406][325]LogBlueprintUserMessages: [AI_Patrol3] AI_Patrol3   Found:   PosionFood_C_9
+[2018.11.15-21.18.01:906][385]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol4   Found:   PosionFood_C_12
+[2018.11.15-21.18.01:906][385]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol4   Found:   PosionFood_C_17
+[2018.11.15-21.18.01:906][385]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol4   Found:   PosionFood_C_19
+[2018.11.15-21.18.01:906][385]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol4   Found:   PosionFood_C_22
+[2018.11.15-21.18.01:907][385]LogBlueprintUserMessages: [AI_Patrol_2] AI_Patrol   Found:   PosionFood_C_10
+[2018.11.15-21.18.01:907][385]LogBlueprintUserMessages: [AI_Patrol_2] AI_Patrol   Found:   PosionFood_C_12
+[2018.11.15-21.18.01:907][385]LogBlueprintUserMessages: [AI_Patrol_2] AI_Patrol   Found:   PosionFood_C_18
+[2018.11.15-21.18.01:907][385]LogBlueprintUserMessages: [AI_Patrol_2] AI_Patrol   Found:   PosionFood_C_19
+[2018.11.15-21.18.01:907][385]LogBlueprintUserMessages: [AI_Patrol6] AI_Patrol6   Found:   PosionFood_C_11
+[2018.11.15-21.18.01:907][385]LogBlueprintUserMessages: [AI_Patrol6] AI_Patrol6   Found:   PosionFood_C_12
+[2018.11.15-21.18.01:907][385]LogBlueprintUserMessages: [AI_Patrol6] AI_Patrol6   Found:   PosionFood_C_22
+[2018.11.15-21.18.01:907][385]LogBlueprintUserMessages: [AI_Patrol3] AI_Patrol3   Found:   PosionFood_2
+[2018.11.15-21.18.01:907][385]LogBlueprintUserMessages: [AI_Patrol3] AI_Patrol3   Found:   PosionFood_C_1
+[2018.11.15-21.18.01:907][385]LogBlueprintUserMessages: [AI_Patrol3] AI_Patrol3   Found:   PosionFood_C_3
+[2018.11.15-21.18.01:907][385]LogBlueprintUserMessages: [AI_Patrol3] AI_Patrol3   Found:   PosionFood_C_5
+[2018.11.15-21.18.01:907][385]LogBlueprintUserMessages: [AI_Patrol3] AI_Patrol3   Found:   PosionFood_C_20
+[2018.11.15-21.18.02:408][443]LogBlueprintUserMessages: [AI_Patrol3] AI_Patrol3   Found:   PosionFood_2
+[2018.11.15-21.18.02:408][443]LogBlueprintUserMessages: [AI_Patrol3] AI_Patrol3   Found:   PosionFood_C_1
+[2018.11.15-21.18.02:408][443]LogBlueprintUserMessages: [AI_Patrol3] AI_Patrol3   Found:   PosionFood_C_9
+[2018.11.15-21.18.02:408][443]LogBlueprintUserMessages: [AI_Patrol6] AI_Patrol6   Found:   PosionFood_C_10
+[2018.11.15-21.18.02:408][443]LogBlueprintUserMessages: [AI_Patrol_2] AI_Patrol   Found:   PosionFood_C_10
+[2018.11.15-21.18.02:408][443]LogBlueprintUserMessages: [AI_Patrol_2] AI_Patrol   Found:   PosionFood_C_18
+[2018.11.15-21.18.02:408][443]LogBlueprintUserMessages: [AI_Patrol_2] AI_Patrol   Found:   PosionFood_C_19
+[2018.11.15-21.18.02:408][443]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol4   Found:   PosionFood_C_12
+[2018.11.15-21.18.02:408][443]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol4   Found:   PosionFood_C_17
+[2018.11.15-21.18.02:408][443]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol4   Found:   PosionFood_C_19
+[2018.11.15-21.18.02:408][443]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol4   Found:   PosionFood_C_22
+[2018.11.15-21.18.02:908][503]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol4   Found:   PosionFood_C_0
+[2018.11.15-21.18.02:908][503]LogBlueprintUserMessages: [AI_Patrol_2] AI_Patrol   Found:   PosionFood_C_10
+[2018.11.15-21.18.02:908][503]LogBlueprintUserMessages: [AI_Patrol_2] AI_Patrol   Found:   PosionFood_C_19
+[2018.11.15-21.18.02:908][503]LogBlueprintUserMessages: [AI_Patrol6] AI_Patrol6   Found:   PosionFood_C_10
+[2018.11.15-21.18.02:908][503]LogBlueprintUserMessages: [AI_Patrol3] AI_Patrol3   Found:   PosionFood_2
+[2018.11.15-21.18.02:908][503]LogBlueprintUserMessages: [AI_Patrol3] AI_Patrol3   Found:   PosionFood_C_5
+[2018.11.15-21.18.02:908][503]LogBlueprintUserMessages: [AI_Patrol3] AI_Patrol3   Found:   PosionFood_C_9
+[2018.11.15-21.18.03:407][563]LogBlueprintUserMessages: [AI_Patrol6] AI_Patrol6   Found:   PosionFood_C_10
+[2018.11.15-21.18.03:407][563]LogBlueprintUserMessages: [AI_Patrol_2] AI_Patrol   Found:   PosionFood_C_10
+[2018.11.15-21.18.03:407][563]LogBlueprintUserMessages: [AI_Patrol_2] AI_Patrol   Found:   PosionFood_C_12
+[2018.11.15-21.18.03:407][563]LogBlueprintUserMessages: [AI_Patrol_2] AI_Patrol   Found:   PosionFood_C_18
+[2018.11.15-21.18.03:407][563]LogBlueprintUserMessages: [AI_Patrol_2] AI_Patrol   Found:   PosionFood_C_19
+[2018.11.15-21.18.03:407][563]LogBlueprintUserMessages: [AI_Patrol4] AI_Patrol4   Found:   PosionFood_C_0
+[2018.11.15-21.18.03:407][563]LogBlueprintUserMessages: [AI_Patrol3] AI_Patrol3   Found:   PosionFood_C_1
+[2018.11.15-21.18.03:407][563]LogBlueprintUserMessages: [AI_Patrol3] AI_Patrol3   Found:   PosionFood_C_5
+[2018.11.15-21.18.03:407][563]LogBlueprintUserMessages: [AI_Patrol3] AI_Patrol3   Found:   PosionFood_C_9
+[2018.11.15-21.18.03:633][590]LogBlueprintUserMessages: [AI_Patrol5] AI_Patrol5   Found:   PosionFood_C_10
+[2018.11.15-21.18.03:908][623]LogBlueprintUserMessages: [AI_Patrol_2] AI_Patrol   Found:   PosionFood_C_10
+[2018.11.15-21.18.03:908][623]LogBlueprintUserMessages: [AI_Patrol_2] AI_Patrol   Found:   PosionFood_C_19
+[2018.11.15-21.18.04:300][670]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.15-21.18.04:301][670]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-21.18.04:337][670]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.15-21.18.04:338][670]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.15-21.18.04:361][670]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.15-21.18.04:402][673]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2018.11.15-21.18.14:436][818]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-21.18.14:637][818]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/GitHub/aluringLure/Lure/Saved/ThirdPersonExampleMapD945844248B6F0F1E2940188C9CFCAB4.tmp' to '../../../../../../Users/u1218984/Documents/GitHub/aluringLure/Lure/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.11.15-21.18.14:813][818]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/GitHub/aluringLure/Lure/Saved/ThirdPersonExampleMap_BuiltData55F88DDE4067E70C4CFCF29D554E8EDF.tmp' to '../../../../../../Users/u1218984/Documents/GitHub/aluringLure/Lure/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.11.15-21.19.11:781][658]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-21.19.11:954][658]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/GitHub/aluringLure/Lure/Saved/ThirdPersonExampleMapA33010F543694F28662621BC1BC89185.tmp' to '../../../../../../Users/u1218984/Documents/GitHub/aluringLure/Lure/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.11.15-21.19.12:079][658]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/GitHub/aluringLure/Lure/Saved/ThirdPersonExampleMap_BuiltDataC23F771D44981CA84016A1862751D3C3.tmp' to '../../../../../../Users/u1218984/Documents/GitHub/aluringLure/Lure/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.11.15-21.19.22:073][460]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-21.20.08:474][830]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-21.20.09:539][842]LogSlate: Window 'Save Content' being destroyed
+[2018.11.15-21.20.09:553][842]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-21.20.09:646][842]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/GitHub/aluringLure/Lure/Saved/AI_Patrol2D8622E74328264DDD48748E6FAC4F07.tmp' to '../../../../../../Users/u1218984/Documents/GitHub/aluringLure/Lure/Content/BluePrints/PatrolAmongAI/AI_Patrol.uasset'
+[2018.11.15-21.20.09:754][842]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/GitHub/aluringLure/Lure/Saved/ThirdPersonCharacter2422080C47A791CD54A5C3BB3B51062F.tmp' to '../../../../../../Users/u1218984/Documents/GitHub/aluringLure/Lure/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.11.15-21.20.09:806][842]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/GitHub/aluringLure/Lure/Saved/PosionFood538BC24446A19EB8B8BB8AA5B69144C4.tmp' to '../../../../../../Users/u1218984/Documents/GitHub/aluringLure/Lure/Content/White_Box_Models/Plate/PosionFood.uasset'
+[2018.11.15-21.20.09:911][842]LogSlate: Window 'Lure - Unreal Editor' being destroyed
+[2018.11.15-21.20.10:093][843]Cmd: QUIT_EDITOR
+[2018.11.15-21.20.10:173][843]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.15-21.20.10:182][843]LogExit: Preparing to exit.
+[2018.11.15-21.20.10:900][843]LogExit: Editor shut down
+[2018.11.15-21.20.10:900][843]LogExit: Transaction tracking system shut down
+[2018.11.15-21.20.11:591][843]LogExit: Object subsystem successfully closed.
+[2018.11.15-21.20.11:610][843]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.11.15-21.20.11:612][843]LogD3D11RHI: Shutdown
+[2018.11.15-21.20.11:612][843]LogD3D11RHI: CleanupD3DDevice
+[2018.11.15-21.20.11:613][843]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.11.15-21.20.11:629][843]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (616)
+[2018.11.15-21.20.11:629][843]LogModuleManager: Shutting down and abandoning module Voice (614)
+[2018.11.15-21.20.11:630][843]LogModuleManager: Shutting down and abandoning module BlueprintGraph (612)
+[2018.11.15-21.20.11:630][843]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2018.11.15-21.20.11:630][843]LogModuleManager: Shutting down and abandoning module AddContentDialog (608)
+[2018.11.15-21.20.11:630][843]LogModuleManager: Shutting down and abandoning module WidgetCarousel (607)
+[2018.11.15-21.20.11:630][843]LogModuleManager: Shutting down and abandoning module EditorWidgets (604)
+[2018.11.15-21.20.11:630][843]LogModuleManager: Shutting down and abandoning module CollectionManager (602)
+[2018.11.15-21.20.11:630][843]LogModuleManager: Shutting down and abandoning module SceneOutliner (600)
+[2018.11.15-21.20.11:630][843]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2018.11.15-21.20.11:630][843]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2018.11.15-21.20.11:630][843]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2018.11.15-21.20.11:630][843]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2018.11.15-21.20.11:630][843]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2018.11.15-21.20.11:630][843]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2018.11.15-21.20.11:630][843]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2018.11.15-21.20.11:630][843]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2018.11.15-21.20.11:630][843]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2018.11.15-21.20.11:630][843]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2018.11.15-21.20.11:630][843]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2018.11.15-21.20.11:630][843]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2018.11.15-21.20.11:630][843]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2018.11.15-21.20.11:630][843]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2018.11.15-21.20.11:630][843]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2018.11.15-21.20.11:630][843]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2018.11.15-21.20.11:630][843]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2018.11.15-21.20.11:630][843]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2018.11.15-21.20.11:630][843]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2018.11.15-21.20.11:630][843]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2018.11.15-21.20.11:630][843]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2018.11.15-21.20.11:630][843]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2018.11.15-21.20.11:630][843]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2018.11.15-21.20.11:630][843]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2018.11.15-21.20.11:631][843]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2018.11.15-21.20.11:631][843]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2018.11.15-21.20.11:631][843]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2018.11.15-21.20.11:631][843]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2018.11.15-21.20.11:631][843]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2018.11.15-21.20.11:631][843]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2018.11.15-21.20.11:631][843]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2018.11.15-21.20.11:631][843]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2018.11.15-21.20.11:631][843]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2018.11.15-21.20.11:631][843]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2018.11.15-21.20.11:631][843]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2018.11.15-21.20.11:631][843]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2018.11.15-21.20.11:631][843]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2018.11.15-21.20.11:631][843]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2018.11.15-21.20.11:631][843]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2018.11.15-21.20.11:631][843]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2018.11.15-21.20.11:631][843]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2018.11.15-21.20.11:631][843]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2018.11.15-21.20.11:631][843]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2018.11.15-21.20.11:631][843]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2018.11.15-21.20.11:631][843]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2018.11.15-21.20.11:631][843]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2018.11.15-21.20.11:692][843]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2018.11.15-21.20.11:692][843]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2018.11.15-21.20.11:692][843]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2018.11.15-21.20.11:692][843]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2018.11.15-21.20.11:692][843]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2018.11.15-21.20.11:692][843]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2018.11.15-21.20.11:692][843]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2018.11.15-21.20.11:692][843]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2018.11.15-21.20.11:692][843]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2018.11.15-21.20.11:692][843]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2018.11.15-21.20.11:692][843]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2018.11.15-21.20.11:692][843]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2018.11.15-21.20.11:692][843]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2018.11.15-21.20.11:692][843]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2018.11.15-21.20.11:692][843]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2018.11.15-21.20.11:692][843]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2018.11.15-21.20.11:692][843]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2018.11.15-21.20.11:692][843]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2018.11.15-21.20.11:692][843]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2018.11.15-21.20.11:692][843]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2018.11.15-21.20.11:692][843]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2018.11.15-21.20.11:692][843]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2018.11.15-21.20.11:759][843]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2018.11.15-21.20.11:759][843]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2018.11.15-21.20.11:759][843]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2018.11.15-21.20.11:759][843]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2018.11.15-21.20.11:759][843]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2018.11.15-21.20.11:759][843]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2018.11.15-21.20.11:759][843]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2018.11.15-21.20.11:759][843]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2018.11.15-21.20.11:759][843]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2018.11.15-21.20.11:759][843]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2018.11.15-21.20.11:763][843]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2018.11.15-21.20.11:763][843]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2018.11.15-21.20.11:763][843]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2018.11.15-21.20.11:763][843]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.11.15-21.20.11:763][843]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.11.15-21.20.11:763][843]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.11.15-21.20.11:763][843]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.11.15-21.20.11:763][843]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.11.15-21.20.11:763][843]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.11.15-21.20.11:763][843]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.11.15-21.20.11:763][843]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.11.15-21.20.11:763][843]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.11.15-21.20.11:763][843]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.11.15-21.20.11:763][843]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.11.15-21.20.11:763][843]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.11.15-21.20.11:763][843]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.11.15-21.20.11:763][843]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.11.15-21.20.11:763][843]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.11.15-21.20.11:763][843]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.11.15-21.20.11:763][843]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.11.15-21.20.11:763][843]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2018.11.15-21.20.11:763][843]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.11.15-21.20.11:949][843]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.11.15-21.20.11:949][843]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.11.15-21.20.11:949][843]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.11.15-21.20.11:949][843]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.11.15-21.20.11:949][843]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.11.15-21.20.11:949][843]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.11.15-21.20.11:949][843]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.11.15-21.20.11:949][843]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.11.15-21.20.11:949][843]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.11.15-21.20.11:949][843]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.11.15-21.20.11:949][843]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.11.15-21.20.11:949][843]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.11.15-21.20.11:949][843]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.11.15-21.20.11:949][843]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.11.15-21.20.11:949][843]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2018.11.15-21.20.11:949][843]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2018.11.15-21.20.11:949][843]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2018.11.15-21.20.11:949][843]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2018.11.15-21.20.11:952][843]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.11.15-21.20.11:952][843]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.11.15-21.20.11:952][843]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.11.15-21.20.11:952][843]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.11.15-21.20.11:952][843]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.11.15-21.20.11:952][843]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.11.15-21.20.11:952][843]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.11.15-21.20.11:952][843]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.11.15-21.20.11:952][843]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.11.15-21.20.11:952][843]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.11.15-21.20.11:952][843]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.11.15-21.20.11:952][843]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2018.11.15-21.20.11:952][843]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.11.15-21.20.11:952][843]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.11.15-21.20.11:952][843]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.11.15-21.20.11:952][843]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.11.15-21.20.11:953][843]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.11.15-21.20.11:953][843]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.11.15-21.20.11:953][843]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.11.15-21.20.11:953][843]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.11.15-21.20.11:953][843]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.11.15-21.20.11:953][843]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.11.15-21.20.11:953][843]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.11.15-21.20.11:953][843]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.11.15-21.20.11:953][843]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.11.15-21.20.11:953][843]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.11.15-21.20.11:953][843]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.11.15-21.20.11:953][843]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.11.15-21.20.11:953][843]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.11.15-21.20.11:953][843]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.11.15-21.20.11:953][843]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.11.15-21.20.11:953][843]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.11.15-21.20.11:953][843]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.11.15-21.20.11:953][843]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.11.15-21.20.11:953][843]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.11.15-21.20.11:953][843]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.11.15-21.20.11:953][843]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.11.15-21.20.11:953][843]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.11.15-21.20.11:953][843]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.11.15-21.20.11:953][843]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.11.15-21.20.11:953][843]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.11.15-21.20.12:054][843]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.11.15-21.20.12:155][843]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.11.15-21.20.12:155][843]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.11.15-21.20.12:155][843]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.11.15-21.20.12:155][843]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.11.15-21.20.12:155][843]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.11.15-21.20.12:155][843]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.11.15-21.20.12:155][843]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.11.15-21.20.12:155][843]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.11.15-21.20.12:155][843]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.11.15-21.20.12:155][843]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.11.15-21.20.12:155][843]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.11.15-21.20.12:155][843]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.11.15-21.20.12:155][843]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.11.15-21.20.12:155][843]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.11.15-21.20.12:155][843]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.11.15-21.20.12:155][843]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.11.15-21.20.12:156][843]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.11.15-21.20.12:156][843]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.11.15-21.20.12:157][843]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.11.15-21.20.12:163][843]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.11.15-21.20.12:163][843]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.11.15-21.20.12:163][843]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.11.15-21.20.12:163][843]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.11.15-21.20.12:163][843]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.11.15-21.20.12:163][843]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.11.15-21.20.12:163][843]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.11.15-21.20.12:163][843]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.11.15-21.20.12:163][843]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.11.15-21.20.12:163][843]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.11.15-21.20.12:163][843]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.11.15-21.20.12:163][843]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.11.15-21.20.12:163][843]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.11.15-21.20.12:163][843]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.11.15-21.20.12:163][843]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.11.15-21.20.12:163][843]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.11.15-21.20.12:163][843]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.11.15-21.20.12:163][843]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.11.15-21.20.12:163][843]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.11.15-21.20.12:163][843]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.11.15-21.20.12:165][843]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.11.15-21.20.12:165][843]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.11.15-21.20.12:165][843]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.11.15-21.20.12:165][843]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.11.15-21.20.12:165][843]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.11.15-21.20.12:165][843]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.11.15-21.20.12:165][843]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.11.15-21.20.12:165][843]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.11.15-21.20.12:165][843]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.11.15-21.20.12:165][843]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.11.15-21.20.12:165][843]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.11.15-21.20.12:165][843]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.11.15-21.20.12:165][843]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.11.15-21.20.12:165][843]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.11.15-21.20.12:165][843]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.11.15-21.20.12:165][843]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.11.15-21.20.12:165][843]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.11.15-21.20.12:165][843]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.11.15-21.20.12:258][843]LogDerivedDataCache: Shutdown
+[2018.11.15-21.20.12:258][843]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.11.15-21.20.12:258][843]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.11.15-21.20.12:258][843]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.11.15-21.20.12:258][843]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.11.15-21.20.12:258][843]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.11.15-21.20.12:258][843]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.11.15-21.20.12:258][843]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.11.15-21.20.12:258][843]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.11.15-21.20.12:258][843]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.11.15-21.20.12:258][843]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.11.15-21.20.12:258][843]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.11.15-21.20.12:258][843]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.11.15-21.20.12:258][843]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.11.15-21.20.12:258][843]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.11.15-21.20.12:258][843]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.11.15-21.20.12:258][843]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.11.15-21.20.12:258][843]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.11.15-21.20.12:258][843]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.11.15-21.20.12:258][843]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.11.15-21.20.12:259][843]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.11.15-21.20.12:259][843]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.11.15-21.20.12:259][843]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.11.15-21.20.12:259][843]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.11.15-21.20.12:259][843]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.11.15-21.20.12:259][843]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.11.15-21.20.12:260][843]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.11.15-21.20.12:260][843]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.11.15-21.20.12:265][843]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.11.15-21.20.12:265][843]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.11.15-21.20.12:265][843]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.11.15-21.20.12:265][843]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.11.15-21.20.12:265][843]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.11.15-21.20.12:265][843]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.11.15-21.20.12:265][843]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.11.15-21.20.12:265][843]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.11.15-21.20.12:265][843]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.11.15-21.20.12:265][843]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.11.15-21.20.12:265][843]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.11.15-21.20.12:265][843]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.11.15-21.20.12:265][843]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.11.15-21.20.12:265][843]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.11.15-21.20.12:265][843]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.11.15-21.20.12:265][843]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.11.15-21.20.12:265][843]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.11.15-21.20.12:265][843]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.11.15-21.20.12:265][843]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.11.15-21.20.12:266][843]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.11.15-21.20.12:273][843]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.11.15-21.20.12:273][843]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.11.15-21.20.12:273][843]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6E0CEA0E-4FC3-FEC1-CA61-CB9A6EBB75BC%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4212847%2B%2B%2BUE4%2BRelease-4.20&UserID=dc52a13f4240b0ac12f8cf9821ba3f30%7C811bd0c0426340ad86f35240c1fb3480%7Cca3921b2-e1a9-4870-b450-16b09fd9ddc5&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.11.15-21.20.12:306][843]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.11.15-21.20.12:306][843]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.11.15-21.20.12:306][843]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.11.15-21.20.12:306][843]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.11.15-21.20.12:306][843]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.11.15-21.20.12:306][843]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.11.15-21.20.12:306][843]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.11.15-21.20.12:306][843]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.11.15-21.20.12:306][843]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.11.15-21.20.12:306][843]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.11.15-21.20.12:307][843]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.11.15-21.20.12:307][843]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.11.15-21.20.12:307][843]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.11.15-21.20.12:307][843]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.11.15-21.20.12:307][843]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.11.15-21.20.12:307][843]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.11.15-21.20.12:307][843]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.11.15-21.20.12:307][843]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.11.15-21.20.12:307][843]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.11.15-21.20.12:307][843]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.11.15-21.20.12:307][843]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.11.15-21.20.12:307][843]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.11.15-21.20.12:307][843]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.11.15-21.20.12:307][843]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.11.15-21.20.12:307][843]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.11.15-21.20.12:308][843]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.11.15-21.20.12:308][843]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.11.15-21.20.12:308][843]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.11.15-21.20.12:308][843]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.11.15-21.20.12:308][843]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.11.15-21.20.12:312][843]LogExit: Exiting.
+[2018.11.15-21.20.12:333][843]Log file closed, 11/15/18 14:20:12
