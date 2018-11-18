@@ -1,0 +1,871 @@
+﻿Log file open, 11/18/18 15:21:39
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Lure
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.267415
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.086s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4212847
+LogInit: Engine Version: 4.20.3-4212847+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Jul 14 2018 09:51:14
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: -EpicPortal  -epicusername="BosonHUANG" -epicuserid=811bd0c0426340ad86f35240c1fb3480 -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.18-22.21.40:142][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.18-22.21.40:142][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.18-22.21.40:155][  0]LogHAL: Display: Platform has ~ 16 GB [17122476032 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.11.18-22.21.40:155][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.11.18-22.21.40:155][  0]LogInit: Going up to parent DeviceProfile []
+[2018.11.18-22.21.40:155][  0]LogInit: Computer: eae-d-185
+[2018.11.18-22.21.40:155][  0]LogInit: User: u1218984
+[2018.11.18-22.21.40:155][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.11.18-22.21.40:155][  0]LogInit: High frequency timer resolution =4.101557 MHz
+[2018.11.18-22.21.40:156][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.11.18-22.21.40:156][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.18-22.21.40:156][  0]LogMemory: Process Physical Memory: 102.52 MB used, 102.52 MB peak
+[2018.11.18-22.21.40:156][  0]LogMemory: Process Virtual Memory: 87.02 MB used, 87.02 MB peak
+[2018.11.18-22.21.40:156][  0]LogMemory: Physical Memory: 7314.48 MB used,  9014.79 MB free, 16329.27 MB total
+[2018.11.18-22.21.40:156][  0]LogMemory: Virtual Memory: 4636.46 MB used,  9014.79 MB free, 134217728.00 MB total
+[2018.11.18-22.21.40:170][  0]LogInit: Using OS detected language (en-US).
+[2018.11.18-22.21.40:170][  0]LogInit: Using OS detected locale (en-US).
+[2018.11.18-22.21.40:171][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.11.18-22.21.40:437][  0]LogStreaming: Display: Took  0.268s to InitEngineTextLocalization.
+[2018.11.18-22.21.40:438][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.18-22.21.40:473][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.18-22.21.40:473][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.18-22.21.40:617][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.18-22.21.40:617][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.18-22.21.40:664][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.11.18-22.21.40:664][  0]LogD3D11RHI:       8088/0/8164 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.11.18-22.21.40:667][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.18-22.21.40:667][  0]LogD3D11RHI:       0/0/8164 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.18-22.21.40:667][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.18-22.21.40:672][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.18-22.21.40:672][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.18-22.21.40:672][  0]LogWindows: EnumDisplayDevices:
+[2018.11.18-22.21.40:672][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2018.11.18-22.21.40:673][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2018.11.18-22.21.40:673][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.11.18-22.21.40:673][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.11.18-22.21.40:673][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.11.18-22.21.40:673][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.11.18-22.21.40:673][  0]LogD3D11RHI:   Driver Version: 398.36 (internal:24.21.13.9836, unified:398.36)
+[2018.11.18-22.21.40:673][  0]LogD3D11RHI:      Driver Date: 6-24-2018
+[2018.11.18-22.21.40:673][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2018.11.18-22.21.40:703][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.18-22.21.40:720][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.11.18-22.21.40:804][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (../../../../../../Users/u1218984/Documents/GitHub/aluringLure/Lure/Intermediate/Shaders/WorkingDirectory/4128/).
+[2018.11.18-22.21.40:804][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/u1218984/AppData/Local/Temp/UnrealShaderWorkingDir/580B00834F64BE34BCF3A59D0FC2F8D9/'.
+[2018.11.18-22.21.41:029][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.18-22.21.41:039][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.18-22.21.41:049][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.18-22.21.41:059][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.18-22.21.41:070][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.18-22.21.41:080][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.18-22.21.41:091][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.18-22.21.41:101][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.18-22.21.41:106][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.18-22.21.41:166][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.18-22.21.41:166][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.18-22.21.41:166][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.18-22.21.41:166][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.18-22.21.41:166][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.18-22.21.41:166][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.18-22.21.41:166][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.18-22.21.41:166][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.18-22.21.41:166][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.18-22.21.41:166][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.18-22.21.41:166][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.18-22.21.41:166][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.18-22.21.41:166][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.18-22.21.41:166][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.18-22.21.41:166][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.18-22.21.41:166][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.18-22.21.41:166][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.18-22.21.41:166][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.18-22.21.41:167][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.18-22.21.41:221][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.18-22.21.41:221][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.18-22.21.41:239][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.18-22.21.41:239][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.18-22.21.41:249][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.18-22.21.41:261][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.18-22.21.41:271][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.18-22.21.41:281][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.18-22.21.41:288][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.18-22.21.41:288][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.18-22.21.41:334][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.18-22.21.41:334][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.18-22.21.41:334][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.18-22.21.41:885][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.18-22.21.41:928][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/u1218984/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.18-22.21.41:928][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/u1218984/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.11.18-22.21.41:928][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/u1218984/Documents/GitHub/aluringLure/Lure/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.18-22.21.41:928][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.18-22.21.41:928][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/u1218984/Documents/GitHub/aluringLure/Lure/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.18-22.21.41:928][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.18-22.21.41:938][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.18-22.21.41:950][  0]LogDerivedDataCache: Using Local data cache path C:/Users/u1218984/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.18-22.21.41:950][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.18-22.21.41:950][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.18-22.21.41:963][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.18-22.21.41:964][  0]LogSlate: Using FreeType 2.6.0
+[2018.11.18-22.21.41:965][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.18-22.21.42:027][  0]LogAssetRegistry: FAssetRegistry took 0.0248 seconds to start up
+[2018.11.18-22.21.42:268][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.18-22.21.42:367][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.18-22.21.42:370][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.18-22.21.42:370][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.11.18-22.21.42:370][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.18-22.21.42:370][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.18-22.21.42:387][  0]LogNetVersion: Lure 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2248156831)
+[2018.11.18-22.21.42:860][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.104653 seconds
+[2018.11.18-22.21.42:865][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.11.18-22.21.42:865][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.11.18-22.21.42:865][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.18-22.21.43:527][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.18-22.21.43:539][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.18-22.21.43:660][  0]SourceControl: Source control is disabled
+[2018.11.18-22.21.43:660][  0]SourceControl: Source control is disabled
+[2018.11.18-22.21.43:662][  0]SourceControl: Source control is disabled
+[2018.11.18-22.21.43:662][  0]SourceControl: Source control is disabled
+[2018.11.18-22.21.43:810][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.18-22.21.43:857][  0]LogOcInput: OculusInput pre-init called
+[2018.11.18-22.21.43:907][  0]LogEngine: Initializing Engine...
+[2018.11.18-22.21.43:908][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.18-22.21.43:909][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.18-22.21.43:909][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.18-22.21.43:909][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.18-22.21.43:909][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.18-22.21.44:074][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.11.18-22.21.44:085][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.18-22.21.44:138][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.18-22.21.44:152][  0]LogInit: FAudioDevice initialized.
+[2018.11.18-22.21.44:152][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.11.18-22.21.44:209][  0]LogDerivedDataCache: Saved boot cache 0.06s 71MB C:/Users/u1218984/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.18-22.21.44:218][  0]LogInit: Texture streaming: Enabled
+[2018.11.18-22.21.44:232][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.18-22.21.44:246][  0]LogInit: Transaction tracking system initialized
+[2018.11.18-22.21.44:265][  0]BlueprintLog: New page: Editor Load
+[2018.11.18-22.21.44:328][  0]LocalizationService: Localization service is disabled
+[2018.11.18-22.21.44:554][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.18-22.21.44:554][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.18-22.21.44:554][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.18-22.21.44:554][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.18-22.21.44:554][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.18-22.21.44:554][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.18-22.21.44:554][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.18-22.21.44:653][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1218984/Documents/GitHub/aluringLure/Lure/Content/' took 0.02s
+[2018.11.18-22.21.44:653][  0]SourceControl: Source control is disabled
+[2018.11.18-22.21.44:653][  0]Cmd: MAP LOAD FILE="../../../../../../Users/u1218984/Documents/GitHub/aluringLure/Lure/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.18-22.21.44:657][  0]LightingResults: New page: Lighting Build
+[2018.11.18-22.21.44:660][  0]MapCheck: New page: Map Check
+[2018.11.18-22.21.44:660][  0]LightingResults: New page: Lighting Build
+[2018.11.18-22.21.45:619][  0]LogMaterial: Display: Missing cached shader map for material Beam, compiling. 
+[2018.11.18-22.21.45:753][  0]LogShaderCompilers: Display: Shaders left to compile 79
+[2018.11.18-22.21.45:753][  0]LogShaderCompilers: Display: Shaders left to compile 69
+[2018.11.18-22.21.45:753][  0]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.11.18-22.21.45:753][  0]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.11.18-22.21.45:753][  0]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.11.18-22.21.45:753][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Ringing_Phone-Mike_Koenig-1503628110...
+[2018.11.18-22.21.45:753][  0]LogTemp: Couldn't find amount to resample to.
+[2018.11.18-22.21.45:826][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Eat_Mommy-SoundBible_com-135095240_0...
+[2018.11.18-22.21.45:826][  0]LogTemp: Couldn't find amount to resample to.
+[2018.11.18-22.21.45:864][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Air_Horn-SoundBible_com-964603082__1_...
+[2018.11.18-22.21.45:864][  0]LogTemp: Couldn't find amount to resample to.
+[2018.11.18-22.21.46:223][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.11.18-22.21.46:265][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.18-22.21.46:295][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.18-22.21.46:398][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 102.689ms to complete.
+[2018.11.18-22.21.46:398][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.745
+[2018.11.18-22.21.46:608][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.18-22.21.46:619][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.18-22.21.46:629][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.18-22.21.46:640][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.18-22.21.46:658][  0]LogCollectionManager: Loaded 0 collections in 0.002227 seconds
+[2018.11.18-22.21.46:722][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1218984/Documents/GitHub/aluringLure/Lure/Saved/Collections/' took 0.01s
+[2018.11.18-22.21.46:722][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1218984/Documents/GitHub/aluringLure/Lure/Content/Developers/u1218984/Collections/' took 0.01s
+[2018.11.18-22.21.46:722][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1218984/Documents/GitHub/aluringLure/Lure/Content/Collections/' took 0.01s
+[2018.11.18-22.21.46:722][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.11.18-22.21.46:738][  0]LogContentBrowser: Native class hierarchy populated in 0.0151 seconds. Added 2573 classes and 605 folders.
+[2018.11.18-22.21.46:757][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.11.18-22.21.47:215][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.18-22.21.47:272][  0]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.18-22.21.47:277][  0]LogSlate: Took 0.000221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.18-22.21.47:286][  0]LogSlate: Took 0.005830 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.18-22.21.47:391][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.11.18-22.21.48:187][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.11.18-22.21.48:187][  0]LogLoad: (Engine Initialization) Total time: 9.72 seconds
+[2018.11.18-22.21.48:187][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.18-22.21.48:198][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.18-22.21.48:235][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.18-22.21.48:290][  0]LogSlate: Took 0.006794 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.18-22.21.48:305][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/u1218984/Documents/GitHub/aluringLure/Lure/Content/' took 0.09s
+[2018.11.18-22.21.49:536][136]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.11.18-22.21.49:554][138]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.18-22.21.50:083][178]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.18-22.21.52:855][503]LogAssetRegistry: Asset discovery search completed in 10.8498 seconds
+[2018.11.18-22.21.52:856][503]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.11.18-22.21.52:856][503]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000048 seconds (updated 0 objects)
+[2018.11.18-22.21.55:542][823]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-22.21.55:600][830]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.18-22.21.55:627][830]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.18-22.21.55:628][830]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.18-22.21.55:650][830]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 18, 2018, 8:21:55 AM)
+[2018.11.18-22.21.55:650][830]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.11.18-22.21.55:670][830]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020073s)
+[2018.11.18-22.21.55:670][830]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.11.18-22.21.55:671][830]LogPlayLevel: PIE: World Init took: (0.000923s)
+[2018.11.18-22.21.55:671][830]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.021281s)
+[2018.11.18-22.21.55:696][830]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.18-22.21.55:706][830]LogInit: FAudioDevice initialized.
+[2018.11.18-22.21.55:759][830]LogLoad: Game class is 'my_GameMode_C'
+[2018.11.18-22.21.55:769][830]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.11.18-15.21.55
+[2018.11.18-22.21.55:770][830]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2018.11.18-22.21.55:787][830]LogWorld: Bringing up level for play took: 0.019602
+[2018.11.18-22.21.55:813][830]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 10 classes and 0 folders.
+[2018.11.18-22.21.55:814][830]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.11.18-22.21.55:814][830]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.11.18-22.21.55:821][830]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.47
+[2018.11.18-22.21.55:822][830]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.18-22.21.59:159][224]LogBlueprintUserMessages: [ThirdPersonCharacter_167] X=-657.787 Y=152.431 Z=135.121
+[2018.11.18-22.22.03:659][764]LogScript: Warning: Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:1918
+[2018.11.18-22.22.03:659][764]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.03:666][765]LogScript: Warning: Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:1918
+[2018.11.18-22.22.03:666][765]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.03:674][766]LogScript: Warning: Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:1918
+[2018.11.18-22.22.03:675][766]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.03:683][767]LogScript: Warning: Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:1918
+[2018.11.18-22.22.03:683][767]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.03:691][768]LogScript: Warning: Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:1918
+[2018.11.18-22.22.03:691][768]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.03:700][769]LogScript: Warning: Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:1918
+[2018.11.18-22.22.03:700][769]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.03:708][770]LogScript: Warning: Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:1918
+[2018.11.18-22.22.03:708][770]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.03:716][771]LogScript: Warning: Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:1918
+[2018.11.18-22.22.03:716][771]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.03:725][772]LogScript: Warning: Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:1918
+[2018.11.18-22.22.03:725][772]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.03:733][773]LogScript: Warning: Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:1918
+[2018.11.18-22.22.03:733][773]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.03:741][774]LogScript: Warning: Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:1918
+[2018.11.18-22.22.03:741][774]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.03:750][775]LogScript: Warning: Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:1918
+[2018.11.18-22.22.03:750][775]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.03:758][776]LogScript: Warning: Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:1918
+[2018.11.18-22.22.03:758][776]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.03:766][777]LogScript: Warning: Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:1918
+[2018.11.18-22.22.03:766][777]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.03:775][778]LogScript: Warning: Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:1918
+[2018.11.18-22.22.03:775][778]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.03:783][779]LogScript: Warning: Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:1918
+[2018.11.18-22.22.03:783][779]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.03:791][780]LogScript: Warning: Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill
+	ThirdPersonCharacter_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167
+	Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter:1918
+[2018.11.18-22.22.03:791][780]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.03:799][781]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.03:807][782]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.03:816][783]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.03:824][784]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.03:832][785]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.03:841][786]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.03:849][787]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.03:857][788]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.03:866][789]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.03:874][790]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.03:882][791]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.03:891][792]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.03:899][793]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.03:908][794]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.03:916][795]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.03:924][796]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.03:933][797]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.03:941][798]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.03:949][799]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.03:958][800]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.03:966][801]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.03:974][802]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.03:983][803]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.03:991][804]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.03:999][805]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.04:008][806]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.04:016][807]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.04:024][808]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.04:033][809]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.04:041][810]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.04:050][811]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.04:058][812]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.04:066][813]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.04:075][814]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.04:083][815]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.04:091][816]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.04:100][817]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.04:108][818]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.04:116][819]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.04:125][820]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.04:133][821]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.04:141][822]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.04:149][823]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.04:157][824]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.04:166][825]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.04:174][826]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.04:182][827]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.04:191][828]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.04:199][829]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.04:208][830]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.04:216][831]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.04:224][832]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.04:232][833]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.04:241][834]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.04:249][835]PIE: Error: Blueprint Runtime Error: "Attempted to access Money_Lure_BP_C_0 via property SpawnedMoneyReference, but Money_Lure_BP_C_0 is pending kill". Blueprint:  ThirdPersonCharacter Function:  Execute Ubergraph Third Person Character Graph:  EventGraph Node:  Move Pawn Backward
+[2018.11.18-22.22.18:960][600]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.18-22.22.18:960][600]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.18-22.22.18:993][600]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.18-22.22.18:993][600]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.18-22.22.19:011][600]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.18-22.22.19:067][603]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2018.11.18-22.22.25:352][356]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-22.22.30:867][  6]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.18-22.22.30:874][  6]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/White_Box_Models/Money_Lure/Money_Lure_BP.Money_Lure_BP
+[2018.11.18-22.22.31:250][  6]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.11.18-22.22.31:922][  6]LogSlate: Took 0.003604 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.18-22.22.32:055][  7]LogSlate: Took 0.003560 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.18-22.22.44:938][361]LogEditorViewport: Clicking on Actor (LMB): AI_Patrol_C (AI_Patrol)
+[2018.11.18-22.22.46:053][460]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-22.22.46:505][505]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-22.22.46:507][505]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BluePrints/PatrolAmongAI/AI_Patrol.AI_Patrol
+[2018.11.18-22.23.47:454][435]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/GitHub/aluringLure/Lure/Saved/Money_Lure_BP74458E9846CC5FB7E9F70CB3EB9C2445.tmp' to '../../../../../../Users/u1218984/Documents/GitHub/aluringLure/Lure/Content/White_Box_Models/Money_Lure/Money_Lure_BP.uasset'
+[2018.11.18-22.23.47:976][483]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-22.23.48:044][490]BlueprintLog: New page: Compile Money_Lure_BP
+[2018.11.18-22.25.06:186][893]BlueprintLog: New page: Compile AI_Patrol
+[2018.11.18-22.25.08:111][ 29]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/GitHub/aluringLure/Lure/Saved/AI_Patrol6C50FDDC4F63D46F3DBBD18B04C2C92E.tmp' to '../../../../../../Users/u1218984/Documents/GitHub/aluringLure/Lure/Content/BluePrints/PatrolAmongAI/AI_Patrol.uasset'
+[2018.11.18-22.25.10:087][234]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-22.25.14:598][656]LogTemp: Repeating last play command: Selected Viewport
+[2018.11.18-22.25.14:637][656]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.18-22.25.14:637][656]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.18-22.25.14:637][656]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 18, 2018, 8:25:14 AM)
+[2018.11.18-22.25.14:637][656]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.11.18-22.25.14:649][656]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011383s)
+[2018.11.18-22.25.14:649][656]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.11.18-22.25.14:649][656]LogPlayLevel: PIE: World Init took: (0.000716s)
+[2018.11.18-22.25.14:649][656]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012243s)
+[2018.11.18-22.25.14:682][656]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.18-22.25.14:694][656]LogInit: FAudioDevice initialized.
+[2018.11.18-22.25.14:722][656]LogLoad: Game class is 'my_GameMode_C'
+[2018.11.18-22.25.14:724][656]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.11.18-15.25.14
+[2018.11.18-22.25.14:724][656]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2018.11.18-22.25.14:724][656]LogWorld: Bringing up level for play took: 0.001736
+[2018.11.18-22.25.14:736][656]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.11.18-22.25.14:736][656]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.11.18-22.25.14:737][656]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.614
+[2018.11.18-22.25.14:737][656]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.18-22.25.14:951][667]LogBlueprintUserMessages: [ThirdPersonCharacter_167] X=-657.787 Y=152.431 Z=135.121
+[2018.11.18-22.25.31:638][663]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.18-22.25.31:638][663]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.18-22.25.31:682][663]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.18-22.25.31:683][663]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.11.18-22.25.31:707][663]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.18-22.25.31:817][664]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2018.11.18-22.25.36:371][147]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.18-22.32.28:976][591]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/GitHub/aluringLure/Lure/Saved/ThirdPersonExampleMap_Auto1A9FF4B4E462E3ED4D8FD2DA9323CAA43.tmp' to '../../../../../../Users/u1218984/Documents/GitHub/aluringLure/Lure/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2018.11.18-22.32.28:981][591]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.170
+[2018.11.18-22.32.28:981][591]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.170
+[2018.11.18-22.33.13:548][725]LogSlate: Window 'AI_Patrol' being destroyed
+[2018.11.18-22.33.13:551][725]LogSlate: Window 'AI_Patrol' being destroyed
+[2018.11.18-22.33.13:633][725]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.11.18-22.33.14:634][728]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-22.33.16:825][728]LogSlate: Window 'Save Content' being destroyed
+[2018.11.18-22.33.16:839][728]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.18-22.33.17:066][728]LogSavePackage: Moving '../../../../../../Users/u1218984/Documents/GitHub/aluringLure/Lure/Saved/ThirdPersonExampleMapF7FD9A5C465975C12FABB6903C34A90D.tmp' to '../../../../../../Users/u1218984/Documents/GitHub/aluringLure/Lure/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.11.18-22.33.17:115][728]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.272
+[2018.11.18-22.33.17:242][728]LogSlate: Window 'Lure - Unreal Editor' being destroyed
+[2018.11.18-22.33.17:243][728]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.18-22.33.17:427][729]Cmd: QUIT_EDITOR
+[2018.11.18-22.33.18:340][729]LogExit: Preparing to exit.
+[2018.11.18-22.33.18:933][729]LogExit: Editor shut down
+[2018.11.18-22.33.18:933][729]LogExit: Transaction tracking system shut down
+[2018.11.18-22.33.19:575][729]LogExit: Object subsystem successfully closed.
+[2018.11.18-22.33.19:590][729]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.11.18-22.33.19:592][729]LogD3D11RHI: Shutdown
+[2018.11.18-22.33.19:592][729]LogD3D11RHI: CleanupD3DDevice
+[2018.11.18-22.33.19:594][729]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.11.18-22.33.19:613][729]LogModuleManager: Shutting down and abandoning module BlueprintGraph (616)
+[2018.11.18-22.33.19:613][729]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (614)
+[2018.11.18-22.33.19:613][729]LogModuleManager: Shutting down and abandoning module Voice (612)
+[2018.11.18-22.33.19:614][729]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2018.11.18-22.33.19:614][729]LogModuleManager: Shutting down and abandoning module AddContentDialog (608)
+[2018.11.18-22.33.19:614][729]LogModuleManager: Shutting down and abandoning module WidgetCarousel (607)
+[2018.11.18-22.33.19:614][729]LogModuleManager: Shutting down and abandoning module EditorWidgets (604)
+[2018.11.18-22.33.19:614][729]LogModuleManager: Shutting down and abandoning module CollectionManager (602)
+[2018.11.18-22.33.19:615][729]LogModuleManager: Shutting down and abandoning module SceneOutliner (600)
+[2018.11.18-22.33.19:615][729]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2018.11.18-22.33.19:615][729]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2018.11.18-22.33.19:615][729]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2018.11.18-22.33.19:615][729]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2018.11.18-22.33.19:615][729]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2018.11.18-22.33.19:615][729]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2018.11.18-22.33.19:615][729]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2018.11.18-22.33.19:615][729]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2018.11.18-22.33.19:615][729]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2018.11.18-22.33.19:615][729]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2018.11.18-22.33.19:615][729]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2018.11.18-22.33.19:615][729]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2018.11.18-22.33.19:615][729]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2018.11.18-22.33.19:615][729]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2018.11.18-22.33.19:615][729]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2018.11.18-22.33.19:615][729]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2018.11.18-22.33.19:615][729]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2018.11.18-22.33.19:615][729]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2018.11.18-22.33.19:615][729]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2018.11.18-22.33.19:615][729]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2018.11.18-22.33.19:615][729]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2018.11.18-22.33.19:615][729]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2018.11.18-22.33.19:615][729]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2018.11.18-22.33.19:615][729]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2018.11.18-22.33.19:615][729]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2018.11.18-22.33.19:615][729]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2018.11.18-22.33.19:615][729]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2018.11.18-22.33.19:615][729]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2018.11.18-22.33.19:615][729]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2018.11.18-22.33.19:615][729]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2018.11.18-22.33.19:615][729]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2018.11.18-22.33.19:615][729]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2018.11.18-22.33.19:615][729]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2018.11.18-22.33.19:615][729]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2018.11.18-22.33.19:615][729]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2018.11.18-22.33.19:615][729]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2018.11.18-22.33.19:615][729]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2018.11.18-22.33.19:615][729]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2018.11.18-22.33.19:615][729]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2018.11.18-22.33.19:615][729]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2018.11.18-22.33.19:615][729]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2018.11.18-22.33.19:615][729]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2018.11.18-22.33.19:616][729]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2018.11.18-22.33.19:616][729]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2018.11.18-22.33.19:616][729]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2018.11.18-22.33.19:616][729]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2018.11.18-22.33.19:747][729]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2018.11.18-22.33.19:747][729]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2018.11.18-22.33.19:747][729]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2018.11.18-22.33.19:747][729]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2018.11.18-22.33.19:747][729]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2018.11.18-22.33.19:747][729]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2018.11.18-22.33.19:747][729]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2018.11.18-22.33.19:747][729]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2018.11.18-22.33.19:747][729]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2018.11.18-22.33.19:747][729]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2018.11.18-22.33.19:747][729]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2018.11.18-22.33.19:747][729]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2018.11.18-22.33.19:747][729]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2018.11.18-22.33.19:747][729]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2018.11.18-22.33.19:747][729]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2018.11.18-22.33.19:747][729]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2018.11.18-22.33.19:747][729]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2018.11.18-22.33.19:747][729]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2018.11.18-22.33.19:747][729]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2018.11.18-22.33.19:747][729]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2018.11.18-22.33.19:747][729]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2018.11.18-22.33.19:748][729]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2018.11.18-22.33.19:814][729]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2018.11.18-22.33.19:814][729]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2018.11.18-22.33.19:814][729]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2018.11.18-22.33.19:814][729]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2018.11.18-22.33.19:814][729]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2018.11.18-22.33.19:814][729]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2018.11.18-22.33.19:814][729]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2018.11.18-22.33.19:814][729]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2018.11.18-22.33.19:814][729]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2018.11.18-22.33.19:814][729]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2018.11.18-22.33.19:818][729]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2018.11.18-22.33.19:818][729]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2018.11.18-22.33.19:818][729]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2018.11.18-22.33.19:818][729]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.11.18-22.33.19:818][729]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.11.18-22.33.19:818][729]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.11.18-22.33.19:818][729]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.11.18-22.33.19:818][729]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.11.18-22.33.19:818][729]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.11.18-22.33.19:818][729]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.11.18-22.33.19:818][729]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.11.18-22.33.19:818][729]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.11.18-22.33.19:818][729]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.11.18-22.33.19:818][729]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.11.18-22.33.19:818][729]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.11.18-22.33.19:818][729]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.11.18-22.33.19:818][729]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.11.18-22.33.19:818][729]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.11.18-22.33.19:818][729]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.11.18-22.33.19:818][729]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.11.18-22.33.19:818][729]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2018.11.18-22.33.19:818][729]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.11.18-22.33.19:895][729]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.11.18-22.33.19:895][729]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.11.18-22.33.19:895][729]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.11.18-22.33.19:895][729]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.11.18-22.33.19:895][729]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.11.18-22.33.19:895][729]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.11.18-22.33.19:895][729]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.11.18-22.33.19:895][729]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.11.18-22.33.19:895][729]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.11.18-22.33.19:895][729]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.11.18-22.33.19:895][729]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.11.18-22.33.19:895][729]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.11.18-22.33.19:895][729]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.11.18-22.33.19:895][729]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.11.18-22.33.19:895][729]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2018.11.18-22.33.19:895][729]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2018.11.18-22.33.19:895][729]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2018.11.18-22.33.19:895][729]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2018.11.18-22.33.19:897][729]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.11.18-22.33.19:897][729]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.11.18-22.33.19:897][729]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.11.18-22.33.19:897][729]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.11.18-22.33.19:897][729]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.11.18-22.33.19:897][729]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.11.18-22.33.19:898][729]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.11.18-22.33.19:898][729]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.11.18-22.33.19:898][729]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.11.18-22.33.19:898][729]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.11.18-22.33.19:898][729]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.11.18-22.33.19:898][729]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2018.11.18-22.33.19:898][729]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.11.18-22.33.19:898][729]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.11.18-22.33.19:898][729]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.11.18-22.33.19:898][729]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.11.18-22.33.19:898][729]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.11.18-22.33.19:898][729]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.11.18-22.33.19:898][729]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.11.18-22.33.19:898][729]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.11.18-22.33.19:898][729]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.11.18-22.33.19:898][729]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.11.18-22.33.19:898][729]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.11.18-22.33.19:898][729]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.11.18-22.33.19:898][729]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.11.18-22.33.19:899][729]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.11.18-22.33.19:899][729]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.11.18-22.33.19:899][729]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.11.18-22.33.19:899][729]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.11.18-22.33.19:899][729]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.11.18-22.33.19:899][729]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.11.18-22.33.19:899][729]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.11.18-22.33.19:899][729]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.11.18-22.33.19:899][729]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.11.18-22.33.19:899][729]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.11.18-22.33.19:899][729]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.11.18-22.33.19:899][729]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.11.18-22.33.19:899][729]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.11.18-22.33.19:899][729]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.11.18-22.33.19:899][729]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.11.18-22.33.19:899][729]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.11.18-22.33.20:000][729]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.11.18-22.33.20:100][729]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.11.18-22.33.20:100][729]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.11.18-22.33.20:100][729]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.11.18-22.33.20:100][729]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.11.18-22.33.20:100][729]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.11.18-22.33.20:100][729]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.11.18-22.33.20:100][729]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.11.18-22.33.20:100][729]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.11.18-22.33.20:100][729]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.11.18-22.33.20:100][729]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.11.18-22.33.20:100][729]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.11.18-22.33.20:101][729]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.11.18-22.33.20:101][729]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.11.18-22.33.20:101][729]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.11.18-22.33.20:101][729]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.11.18-22.33.20:101][729]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.11.18-22.33.20:101][729]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.11.18-22.33.20:101][729]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.11.18-22.33.20:102][729]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.11.18-22.33.20:108][729]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.11.18-22.33.20:108][729]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.11.18-22.33.20:108][729]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.11.18-22.33.20:108][729]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.11.18-22.33.20:108][729]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.11.18-22.33.20:108][729]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.11.18-22.33.20:108][729]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.11.18-22.33.20:108][729]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.11.18-22.33.20:108][729]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.11.18-22.33.20:108][729]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.11.18-22.33.20:108][729]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.11.18-22.33.20:108][729]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.11.18-22.33.20:108][729]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.11.18-22.33.20:108][729]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.11.18-22.33.20:108][729]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.11.18-22.33.20:108][729]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.11.18-22.33.20:108][729]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.11.18-22.33.20:108][729]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.11.18-22.33.20:108][729]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.11.18-22.33.20:108][729]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.11.18-22.33.20:109][729]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.11.18-22.33.20:109][729]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.11.18-22.33.20:109][729]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.11.18-22.33.20:109][729]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.11.18-22.33.20:109][729]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.11.18-22.33.20:109][729]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.11.18-22.33.20:109][729]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.11.18-22.33.20:109][729]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.11.18-22.33.20:109][729]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.11.18-22.33.20:110][729]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.11.18-22.33.20:110][729]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.11.18-22.33.20:110][729]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.11.18-22.33.20:110][729]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.11.18-22.33.20:110][729]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.11.18-22.33.20:110][729]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.11.18-22.33.20:110][729]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.11.18-22.33.20:110][729]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.11.18-22.33.20:111][729]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.11.18-22.33.20:156][729]LogDerivedDataCache: Shutdown
+[2018.11.18-22.33.20:156][729]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.11.18-22.33.20:156][729]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.11.18-22.33.20:156][729]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.11.18-22.33.20:156][729]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.11.18-22.33.20:156][729]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.11.18-22.33.20:156][729]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.11.18-22.33.20:156][729]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.11.18-22.33.20:156][729]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.11.18-22.33.20:156][729]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.11.18-22.33.20:156][729]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.11.18-22.33.20:156][729]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.11.18-22.33.20:156][729]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.11.18-22.33.20:156][729]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.11.18-22.33.20:156][729]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.11.18-22.33.20:156][729]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.11.18-22.33.20:156][729]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.11.18-22.33.20:156][729]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.11.18-22.33.20:156][729]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.11.18-22.33.20:156][729]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.11.18-22.33.20:156][729]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.11.18-22.33.20:156][729]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.11.18-22.33.20:156][729]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.11.18-22.33.20:156][729]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.11.18-22.33.20:157][729]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.11.18-22.33.20:157][729]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.11.18-22.33.20:158][729]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.11.18-22.33.20:158][729]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.11.18-22.33.20:163][729]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.11.18-22.33.20:163][729]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.11.18-22.33.20:163][729]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.11.18-22.33.20:163][729]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.11.18-22.33.20:163][729]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.11.18-22.33.20:163][729]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.11.18-22.33.20:163][729]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.11.18-22.33.20:163][729]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.11.18-22.33.20:163][729]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.11.18-22.33.20:163][729]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.11.18-22.33.20:163][729]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.11.18-22.33.20:163][729]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.11.18-22.33.20:163][729]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.11.18-22.33.20:163][729]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.11.18-22.33.20:163][729]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.11.18-22.33.20:163][729]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.11.18-22.33.20:163][729]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.11.18-22.33.20:163][729]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.11.18-22.33.20:163][729]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.11.18-22.33.20:163][729]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.11.18-22.33.20:199][729]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.11.18-22.33.20:199][729]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.11.18-22.33.20:199][729]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B62F74B77-41D3-CA6E-F3F1-189B5C3B3A98%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4212847%2B%2B%2BUE4%2BRelease-4.20&UserID=dc52a13f4240b0ac12f8cf9821ba3f30%7C811bd0c0426340ad86f35240c1fb3480%7Cca3921b2-e1a9-4870-b450-16b09fd9ddc5&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.11.18-22.33.20:200][729]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.11.18-22.33.20:201][729]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.11.18-22.33.20:201][729]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.11.18-22.33.20:201][729]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.11.18-22.33.20:201][729]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.11.18-22.33.20:201][729]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.11.18-22.33.20:201][729]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.11.18-22.33.20:201][729]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.11.18-22.33.20:201][729]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.11.18-22.33.20:201][729]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.11.18-22.33.20:201][729]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.11.18-22.33.20:201][729]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.11.18-22.33.20:201][729]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.11.18-22.33.20:201][729]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.11.18-22.33.20:201][729]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.11.18-22.33.20:201][729]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.11.18-22.33.20:201][729]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.11.18-22.33.20:201][729]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.11.18-22.33.20:201][729]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.11.18-22.33.20:202][729]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.11.18-22.33.20:202][729]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.11.18-22.33.20:202][729]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.11.18-22.33.20:202][729]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.11.18-22.33.20:202][729]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.11.18-22.33.20:202][729]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.11.18-22.33.20:202][729]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.11.18-22.33.20:202][729]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.11.18-22.33.20:202][729]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.11.18-22.33.20:202][729]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.11.18-22.33.20:202][729]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.11.18-22.33.20:206][729]LogExit: Exiting.
+[2018.11.18-22.33.20:240][729]Log file closed, 11/18/18 15:33:20
